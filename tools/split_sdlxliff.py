@@ -1,0 +1,143 @@
+#!/usr/bin/env python3
+"""
+SDLXLIFF 拆分工具 — 将大型 SDLXLIFF 文件拆分成小批次用于翻译
+
+用法:
+  python3 split_sdlxliff.py <input.sdlxliff> <output_dir> [--batch-size 50]
+"""
+
+import xml.etree.ElementTree as ET
+import json
+import os
+import sys
+import argparse
+import re
+
+
+def extract_segments(sdlxliff_path):
+    """从 SDLXLIFF 文件中提取所有待翻译段落"""
+    tree = ET.parse(sdlxliff_path)
+    root = tree.getroot()
+    
+    # SDLXLIFF 命名空间
+    ns = {
+        'xliff': 'urn:oasis:names:tc:xliff:document:1.2',
+        'sdl': 'http://sdl.com/FileTypes/SdlXliff/1.0'
+    }
+    
+    segments = []
+    
+    # 尝试多种提取方式
+    # 方式1: 标准 XLIFF trans-unit
+    for tu in root.iter('{urn:oasis:names:tc:xliff:document:1.2}trans-unit'):
+        tu_id = tu.get('id', '')
+        source_elem = tu.find('{urn:oasis:names:tc:xliff:document:1.2}source')
+        target_elem = tu.find('{urn:oasis:names:tc:xliff:document:1.2}target')
+        
+        if source_elem is not None:
+            source_text = ''.join(source_elem.itertext()).strip()
+            target_text = ''
+            if target_elem is not None:
+                target_text = ''.join(target_elem.itertext()).strip()
+            
+            if source_text and not target_text:  # 只提取未翻译的
+                segments.append({
+                    'id': tu_id,
+                    'source': source_text
+                })
+    
+    # 方式2: 如果上面没提取到，尝试不带命名空间
+    if not segments:
+        for tu in root.iter('trans-unit'):
+            tu_id = tu.get('id', '')
+            source_elem = tu.find('source')
+            if source_elem is not None:
+                source_text = ''.join(source_elem.itertext()).strip()
+                if source_text:
+                    segments.append({
+                        'id': tu_id,
+                        'source': source_text
+                    })
+    
+    return segments
+
+
+def split_into_batches(segments, batch_size=50):
+    """将段落拆分成批次"""
+    batches = []
+    for i in range(0, len(segments), batch_size):
+        batch = segments[i:i + batch_size]
+        batches.append(batch)
+    return batches
+
+
+def save_batches(batches, output_dir, project_name="translation"):
+    """保存批次文件"""
+    os.makedirs(output_dir, exist_ok=True)
+    
+    manifest = {
+        'project': project_name,
+        'total_segments': sum(len(b) for b in batches),
+        'total_batches': len(batches),
+        'batch_files': []
+    }
+    
+    for i, batch in enumerate(batches):
+        filename = f"batch_{i+1:03d}.json"
+        filepath = os.path.join(output_dir, filename)
+        
+        batch_data = {
+            'batch_number': i + 1,
+            'total_batches': len(batches),
+            'segment_count': len(batch),
+            'segments': batch
+        }
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(batch_data, f, ensure_ascii=False, indent=2)
+        
+        manifest['batch_files'].append(filename)
+        print(f"  批次 {i+1}/{len(batches)}: {len(batch)} 个段落 -> {filename}")
+    
+    # 保存清单
+    manifest_path = os.path.join(output_dir, 'manifest.json')
+    with open(manifest_path, 'w', encoding='utf-8') as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
+    
+    print(f"\n清单文件: {manifest_path}")
+    return manifest
+
+
+def main():
+    parser = argparse.ArgumentParser(description='SDLXLIFF 拆分工具')
+    parser.add_argument('input', help='输入 SDLXLIFF 文件路径')
+    parser.add_argument('output_dir', help='输出目录')
+    parser.add_argument('--batch-size', type=int, default=50, help='每批段落数（默认50）')
+    parser.add_argument('--project', default='translation', help='项目名称')
+    
+    args = parser.parse_args()
+    
+    if not os.path.exists(args.input):
+        print(f"错误: 文件不存在: {args.input}", file=sys.stderr)
+        sys.exit(1)
+    
+    print(f"正在提取: {args.input}")
+    segments = extract_segments(args.input)
+    
+    if not segments:
+        print("警告: 未提取到任何待翻译段落", file=sys.stderr)
+        sys.exit(1)
+    
+    print(f"共提取 {len(segments)} 个待翻译段落")
+    
+    batches = split_into_batches(segments, args.batch_size)
+    print(f"拆分为 {len(batches)} 个批次（每批最多 {args.batch_size} 段）\n")
+    
+    manifest = save_batches(batches, args.output_dir, args.project)
+    
+    print(f"\n✅ 完成！共 {manifest['total_segments']} 段，{manifest['total_batches']} 批")
+    print(f"   输出目录: {args.output_dir}")
+
+
+if __name__ == '__main__':
+    main()
