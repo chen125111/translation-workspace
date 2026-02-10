@@ -1,8 +1,0 @@
-{
-  "project": "test-demo",
-  "total_segments": 5,
-  "total_batches": 1,
-  "batch_files": [
-    "batch_001.json"
-  ]
-}
