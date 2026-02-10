@@ -1,187 +1,207 @@
 {
   "batch_number": 2,
-  "total_batches": 2,
-  "segment_count": 45,
+  "total_batches": 19,
+  "segment_count": 50,
   "segments": [
     {
-      "id": "4c0dd07d-ae7c-4ede-abfe-5cf47c8ae399",
-      "source": "1.4炉顶区"
+      "id": "94000da8-b01c-4d1f-8910-0f5a76724dca",
+      "source": "二"
     },
     {
-      "id": "21fd18b3-f46e-4b6c-b43e-5444492d63bb",
-      "source": "第2节 热回收焦炉炼焦技术"
+      "id": "346c5771-bac1-4650-a788-ffd1d3931a6e",
+      "source": "22区"
     },
     {
-      "id": "92b19ffc-1634-4105-bf9c-65343951262b",
-      "source": "第3章 采用的炼焦技术"
+      "id": "0a24b8aa-8edd-44a1-a0e1-67e2f75f400d",
+      "source": "煤尘"
     },
     {
-      "id": "f6912ed2-5b8f-4e7f-b747-874b1255b507",
-      "source": "第1节 项目概况"
+      "id": "ee4db953-f071-4e42-9252-94553790e2a5",
+      "source": "4"
     },
     {
-      "id": "4d02cd8d-1358-4816-842f-37408b0acb3b",
-      "source": "2.3采用的工艺技术"
+      "id": "4a58efc4-0f18-44e8-9683-553af1a18e0c",
+      "source": "粉碎机房"
     },
     {
-      "id": "d87006f3-367f-4930-a5b7-1d2e8877fcf2",
-      "source": "2.1堆取料机"
+      "id": "53cab65b-3599-4589-947e-513b5e4e063a",
+      "source": "丙"
     },
     {
-      "id": "285eb95b-3e87-42b8-80a2-e0d83a4fb287",
-      "source": "2.2一次可逆反击锤式破碎机"
+      "id": "06bb1561-3ecf-485d-ada7-23d0f065ed8e",
+      "source": "二"
     },
     {
-      "id": "3e3b6964-1cd1-4c9d-966e-720072c347c8",
-      "source": "2.4带式称重给料机"
+      "id": "ee3664e3-90b4-4f99-a7dc-80c3108cfa2d",
+      "source": "22区"
     },
     {
-      "id": "ed6fd0d3-b825-4983-98cf-b84e1c2a3a5a",
-      "source": "2.5二次可逆反击锤式破碎机"
+      "id": "44a7860a-c23e-4683-9f48-18c17e2200f2",
+      "source": "煤尘"
     },
     {
-      "id": "0060a6e3-9cc3-4dfe-a6ca-b978efd66694",
-      "source": "2.7煤塔电液动插板阀"
+      "id": "0272edf2-5d5c-47a3-8c45-e710eeb11d23",
+      "source": "5"
     },
     {
-      "id": "2822cd89-8da4-4dea-98b8-dbf9f5b91a88",
-      "source": "2.8备煤皮带机"
+      "id": "829488bb-289c-4370-8937-3f2b987e42dc",
+      "source": "配煤仓"
     },
     {
-      "id": "076b0b00-9072-448c-893d-d05dba1cf0d9",
-      "source": "3.1焦炉车辆"
+      "id": "d05f314b-3cdd-44e3-af04-3724a943ae9c",
+      "source": "丙"
     },
     {
-      "id": "061a1f1e-8c6a-4afb-a2c6-d703174f0f90",
-      "source": "3.2焦炉铁件"
+      "id": "e0eef9b6-c043-4e2f-b979-57ebda5f203b",
+      "source": "二"
     },
     {
-      "id": "c8ea27a1-ee45-4da8-9398-21edf6fcc9a0",
-      "source": "3.5主要耐火材料"
+      "id": "7cbd22bf-3d76-49f8-858d-88d82d831cef",
+      "source": "22区"
     },
     {
-      "id": "cd615a1e-848d-47ab-8701-557a5b84e134",
-      "source": "3.3泥浆泵"
+      "id": "04235e27-83d6-4e00-9b68-b038d1bb87b6",
+      "source": "煤"
     },
     {
-      "id": "32e6a7d3-ff65-4d27-9ff6-21d3d972171f",
-      "source": "4.1 筛焦皮带机"
+      "id": "04488604-2da0-41a5-90a3-ca5902ea8ba7",
+      "source": "6"
     },
     {
-      "id": "f7ab467e-79a6-4abb-b68a-fdd22ea83b25",
-      "source": "4.3切焦机"
+      "id": "db3fab7e-8f7d-4811-940f-5e85ebbe5f6f",
+      "source": "煤塔"
     },
     {
-      "id": "6013af6c-4840-4bb8-aeeb-a2c6a4a4ed23",
-      "source": "4.4双层振动筛"
+      "id": "9123feb4-190e-4ebc-b1a5-bc6b363fb7ea",
+      "source": "丙"
     },
     {
-      "id": "fe934421-9b77-4a0d-b214-3b13e3c82597",
-      "source": "第1节 消防执行的主要法规和采用标准"
+      "id": "f38ec0c4-23e5-433c-b6e7-2b9939dacb25",
+      "source": "二"
     },
     {
-      "id": "318f8f82-e511-4ad6-831b-8e576768978c",
-      "source": "3.8 消防配置"
+      "id": "112e3148-6b5a-4b98-af0d-40afbac87e28",
+      "source": "22区"
     },
     {
-      "id": "4e9f191a-c845-4ea8-8f1e-4719d7268333",
-      "source": "1.1车间主任岗位职责"
+      "id": "dacf9a27-bc8f-4e27-8abb-9c1d2d75f950",
+      "source": "煤尘"
     },
     {
-      "id": "061ac971-3a0b-485f-b0fa-2cb4f08efa25",
-      "source": "1.2 生产调度岗位职责"
+      "id": "78972ef9-c449-4f2b-84ac-b5ccbaf784d9",
+      "source": "7"
     },
     {
-      "id": "8dff3343-92fb-44db-9525-b32a65966cb2",
-      "source": "1.3工段长岗位职责"
+      "id": "0c4c7e2e-2251-4632-a951-31ac52422377",
+      "source": "运焦通廊"
     },
     {
-      "id": "185096e5-5ddc-41a7-9866-712a07c3f20d",
-      "source": "1.4 班组长岗位职责"
+      "id": "48b62691-c7b7-4e0b-aa87-56ac32d4e85d",
+      "source": "丙"
     },
     {
-      "id": "c8eb9808-7dd6-4cf8-b7c6-092898bc1da7",
-      "source": "2.1 堆取料机"
+      "id": "7a54b5d4-d2f1-40eb-9478-c42e6281121b",
+      "source": "22区"
     },
     {
-      "id": "c936d6ac-7aba-4ad7-ba6f-a9c4fb4b1498",
-      "source": "2.2备煤皮带机"
+      "id": "169929fd-90ef-4e87-8422-33e73b4fcc82",
+      "source": "焦尘"
     },
     {
-      "id": "de485587-adce-4a83-8889-5e282b0e7042",
-      "source": "2.5带式称重给料机"
+      "id": "8c2d2b7d-99f4-4887-91d4-d771a157b8b4",
+      "source": "8"
     },
     {
-      "id": "492b15b8-c296-47f1-945c-0bc3a594d731",
-      "source": "2.6一次、二次可逆反击锤式粉碎机"
+      "id": "15362e25-e32a-4128-a50d-a40c98d44efb",
+      "source": "焦转运站"
     },
     {
-      "id": "dd7ca026-73ac-4cf1-b979-ba5d33903d63",
-      "source": "3.1 机械+液压捣固机"
+      "id": "9978fde4-7c62-4e2e-bf96-c7f407c06fba",
+      "source": "丙"
     },
     {
-      "id": "4b5d2720-69e7-4cae-93e0-d8932ffc194a",
-      "source": "3.2 装煤推焦车（含除尘）"
+      "id": "55927c76-9f3b-4ace-9ec5-8f3ab450e7db",
+      "source": "二"
     },
     {
-      "id": "eeccf423-de89-4eee-a35e-f805b568a76f",
-      "source": "3.3 接焦车（含除尘）"
+      "id": "2e85767b-ab89-4260-bdee-99d3f9da8cca",
+      "source": "22区"
     },
     {
-      "id": "c757b359-b82b-426b-844d-67f347a98564",
-      "source": "3.4二次固定推焦装置"
+      "id": "45ee7ddd-c265-466d-9e63-e4f8ae9bd8b6",
+      "source": "焦尘"
     },
     {
-      "id": "c1cdb9b6-2a69-4bfe-aad7-de420d425097",
-      "source": "3.5倾翻熄焦车"
+      "id": "d0c20122-0812-4cd9-ad96-d2cc90d44d21",
+      "source": "9"
     },
     {
-      "id": "b94597f7-279d-453c-ab30-6d9a0e231a09",
-      "source": "5.5切焦机"
+      "id": "1d9b15e8-bd4d-4bb1-b74a-1675480cee71",
+      "source": "筛焦楼"
     },
     {
-      "id": "7f5bed5d-b8f7-4ac7-a708-2aa66eb18d89",
-      "source": "第6节  除尘操作管理"
+      "id": "eea73681-9f13-4fe5-8351-6d3d06d95792",
+      "source": "丙"
     },
     {
-      "id": "6468a984-2d77-4156-90df-80a342233e81",
-      "source": "9.3电缆的维修"
+      "id": "cba11716-bb1d-4006-913f-18ba2611a7f7",
+      "source": "二"
     },
     {
-      "id": "5c375e1f-db33-49fa-9fe7-06fa67da847d",
-      "source": "9.6继电保护及电气仪表"
+      "id": "dd64947b-db70-41d9-9674-4437ed3c0ea0",
+      "source": "22区"
     },
     {
-      "id": "34f9dd32-fae7-4b6a-a56a-0b220c8cf9a0",
-      "source": "9.8接地和接零"
+      "id": "142a0327-5099-450d-9bc8-97f9a91b494e",
+      "source": "焦尘"
     },
     {
-      "id": "eb4fd714-e18b-4a8f-bfdf-d8b7bdbf7290",
-      "source": "第10节 仪表和自控"
+      "id": "6a6614be-a1b1-4c19-98b3-e090b0fc9a60",
+      "source": "10"
     },
     {
-      "id": "a4bcbb7b-f580-4cc2-9a83-7435f1a53161",
-      "source": "10.2 常规操作规程"
+      "id": "ec6181cb-2ae4-4495-969d-b9e6fa710b1f",
+      "source": "变电所"
     },
     {
-      "id": "967e25e9-1d00-442c-a69a-e17ffcebf1dd",
-      "source": "10.3过程检测与控制仪表日常维护"
+      "id": "77350071-e385-4863-9610-7e759d37ae9a",
+      "source": "丁"
     },
     {
-      "id": "3b9d230b-5509-45d0-a371-1d0d668e04c5",
-      "source": "第2节 交接班制度"
+      "id": "77368d04-c8b1-420d-bdb4-b41838244f91",
+      "source": "二"
     },
     {
-      "id": "bd2a8657-51b2-4ea9-ba2a-33c671272cb5",
-      "source": "第8章  其他"
+      "id": "6bf25d76-c090-438a-a85c-ca49443d57a6",
+      "source": "23区"
     },
     {
-      "id": "82c4cb6e-9299-4e39-8b14-b9ab7963ae0c",
-      "source": "17.2生产指导"
+      "id": "63ed22d9-8d68-48c8-9ace-9479d483a918",
+      "source": "油"
     },
     {
-      "id": "f0645feb-a02c-417f-afe2-2b40848992bd",
-      "source": "18.2 性能考核的主要条件"
+      "id": "2873bd69-4ba8-4222-8953-6a669dc03d36",
+      "source": "11"
+    },
+    {
+      "id": "4f0f5448-fd94-48c7-bcc9-be681c516fc5",
+      "source": "化验室"
+    },
+    {
+      "id": "c4de47f3-0447-4e32-b9b6-74f485992bd9",
+      "source": "丙"
+    },
+    {
+      "id": "21a085f7-831b-4d3a-9f92-8cd11ebcbe20",
+      "source": "二"
+    },
+    {
+      "id": "e700a8e0-6f5b-4435-a190-43311354698f",
+      "source": "23区"
+    },
+    {
+      "id": "cf238bf3-a9b1-44ac-886a-2178bc09e472",
+      "source": "煤、焦尘"
     }
   ]
 }

@@ -1,0 +1,207 @@
+{
+  "batch_number": 6,
+  "total_batches": 19,
+  "segment_count": 50,
+  "segments": [
+    {
+      "id": "4cf0fb9d-c744-4aac-bc3e-27804176040e",
+      "source": "(2)"
+    },
+    {
+      "id": "3c53a2a0-0c58-4197-a321-6591e763cfa9",
+      "source": "控制室"
+    },
+    {
+      "id": "7c59868a-fafb-4afc-8346-e9fc96ccd044",
+      "source": "3"
+    },
+    {
+      "id": "e16c8621-3662-4fbd-86de-10744b3433ff",
+      "source": "3"
+    },
+    {
+      "id": "8eeeffff-0366-4cd7-a4c8-97115950d87e",
+      "source": "3"
+    },
+    {
+      "id": "978ec56c-6fff-4e67-a403-affe8331fdff",
+      "source": "12"
+    },
+    {
+      "id": "9ec80f34-b156-4e7b-8758-96a7c05a5055",
+      "source": "(3)"
+    },
+    {
+      "id": "9e10633d-cef3-4116-aa57-04215f2a7fd4",
+      "source": "小计"
+    },
+    {
+      "id": "f78b34ab-a757-4ce1-acc4-150086ca038f",
+      "source": "11"
+    },
+    {
+      "id": "78fbc25b-fc7c-4c2b-baf2-836844df4407",
+      "source": "11"
+    },
+    {
+      "id": "a113910a-dfca-41d3-969a-61278ed172ea",
+      "source": "44"
+    },
+    {
+      "id": "427b733d-8606-42d5-81de-9392030f54fb",
+      "source": "1.4"
+    },
+    {
+      "id": "5a963613-99e1-41d3-a5ac-200dd44a43d7",
+      "source": "筛焦车间"
+    },
+    {
+      "id": "c356983b-9e93-42e7-92a7-e1ef8411f9f4",
+      "source": "(1)"
+    },
+    {
+      "id": "4e49a57d-9228-4108-a015-4837be0c8cc1",
+      "source": "晾焦台"
+    },
+    {
+      "id": "4a04793f-5d17-4877-a4f3-4c8cb3b91a93",
+      "source": "2"
+    },
+    {
+      "id": "5c91da0e-3324-4615-b84b-55faeac15c38",
+      "source": "3"
+    },
+    {
+      "id": "14257710-ca9d-4976-bd65-be2379483fcd",
+      "source": "2"
+    },
+    {
+      "id": "993c65b0-4aad-46fd-a3ed-576ab6eff708",
+      "source": "8"
+    },
+    {
+      "id": "a167a6a0-8e7e-4ed2-91c6-36cb0bf27ac6",
+      "source": "(2)"
+    },
+    {
+      "id": "51e8ee36-75d2-4897-a598-739b0de5e776",
+      "source": "筛焦楼"
+    },
+    {
+      "id": "3684f05b-abf2-42c0-92fa-805cd884a01a",
+      "source": "2"
+    },
+    {
+      "id": "bb743978-2c1b-4735-8a46-85e625a40f9a",
+      "source": "3"
+    },
+    {
+      "id": "648e1e3c-752f-4da0-819e-5f8e20ded8f4",
+      "source": "2"
+    },
+    {
+      "id": "ed447c35-e262-4d49-8936-8d6951b17330",
+      "source": "8"
+    },
+    {
+      "id": "ed0e1dad-6f92-43be-8a46-70c2c62a8f80",
+      "source": "(3)"
+    },
+    {
+      "id": "3db02e55-7ce4-453e-ab90-75ad621ceffd",
+      "source": "皮带机工"
+    },
+    {
+      "id": "7c017d27-d4ff-4cbc-a584-ee012ac69b75",
+      "source": "1"
+    },
+    {
+      "id": "e2fb72c3-f0f6-47e9-b243-cd2d67c897d0",
+      "source": "3"
+    },
+    {
+      "id": "7f142707-84e2-4465-83d3-fe7f8d807e11",
+      "source": "1"
+    },
+    {
+      "id": "9c7336db-3c13-4561-85c8-a825416f872f",
+      "source": "4"
+    },
+    {
+      "id": "e990e223-3711-4163-9506-8bcb2cead191",
+      "source": "(4)"
+    },
+    {
+      "id": "8b1e8a0c-33e1-4ae5-a5d3-827076510fc2",
+      "source": "储焦场"
+    },
+    {
+      "id": "5f631a0d-6003-4566-aad5-35ed97a10554",
+      "source": "2"
+    },
+    {
+      "id": "beef1d99-8cf9-4d06-a5aa-12b34e366ec3",
+      "source": "3"
+    },
+    {
+      "id": "59d89a51-26e1-4032-9e8c-6d9a18f3ef35",
+      "source": "2"
+    },
+    {
+      "id": "67ab20c1-d7a2-4b61-a731-4c7933bca54d",
+      "source": "8"
+    },
+    {
+      "id": "9879a88e-315d-4762-8961-c6de285af87d",
+      "source": "(5)"
+    },
+    {
+      "id": "a190b1be-8084-4673-95e9-e8671f622728",
+      "source": "小计"
+    },
+    {
+      "id": "e3e2eb9f-b178-4997-98b0-2398c0b160fb",
+      "source": "7"
+    },
+    {
+      "id": "36439dfc-93f8-4044-8f41-b8df56a969e5",
+      "source": "7"
+    },
+    {
+      "id": "6b6ce6cc-3a14-4bf9-8841-11c7315c55ba",
+      "source": "28"
+    },
+    {
+      "id": "313ab974-3632-4bef-8ad7-c5902a20ca3e",
+      "source": "1.5"
+    },
+    {
+      "id": "5dc293e4-7666-4e0a-a975-df8ef7b201fa",
+      "source": "合计"
+    },
+    {
+      "id": "7f6d92df-adc5-4a8f-9c68-9bdee52cf623",
+      "source": "54"
+    },
+    {
+      "id": "db63853c-2d6c-487a-af45-35c3f4009552",
+      "source": "54"
+    },
+    {
+      "id": "50feb878-97c1-40b3-8067-7d767920b5c9",
+      "source": "209"
+    },
+    {
+      "id": "0c157b04-999f-46a9-b2dc-fc8e781064cc",
+      "source": "2"
+    },
+    {
+      "id": "da34d553-9566-4084-9804-8cf0cf3ae530",
+      "source": "公用工程"
+    },
+    {
+      "id": "bb3cdf98-fc86-44c9-b15c-d784ff0c5e8f",
+      "source": "(1)"
+    }
+  ]
+}
