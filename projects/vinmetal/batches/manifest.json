@@ -1,0 +1,9 @@
+{
+  "project": "vinmetal",
+  "total_segments": 95,
+  "total_batches": 2,
+  "batch_files": [
+    "batch_001.json",
+    "batch_002.json"
+  ]
+}
