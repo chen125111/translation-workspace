@@ -1,0 +1,45 @@
+{
+  "batch_number": 1,
+  "translations": [
+    {
+      "id": "1",
+      "source": "焦炉是炼焦的核心设备。",
+      "target": "Coke ovens are the core equipment for coking."
+    },
+    {
+      "id": "2",
+      "source": "装煤推焦车是焦炉操作中最关键的设备之一。",
+      "target": "The coal charging and coke pushing car is one of the most critical pieces of equipment in coke oven operations."
+    },
+    {
+      "id": "3",
+      "source": "湿法熄焦是将红热焦炭用水喷淋冷却的传统方法。",
+      "target": "Wet quenching is a traditional method in which red-hot coke is cooled by water spraying."
+    },
+    {
+      "id": "4",
+      "source": "干法熄焦用惰性气体冷却焦炭，可以回收热量。",
+      "target": "Dry quenching (CDQ) cools coke with an inert gas, enabling heat recovery."
+    },
+    {
+      "id": "5",
+      "source": "筛焦楼将焦炭按粒度分为大块焦、中块焦和小块焦。",
+      "target": "The coke screening building classifies coke by size into large, medium, and small coke."
+    },
+    {
+      "id": "6",
+      "source": "配煤工艺是保证焦炭质量的重要环节。",
+      "target": "Coal blending is a key step in ensuring coke quality."
+    },
+    {
+      "id": "7",
+      "source": "热回收焦炉利用炼焦废热进行发电。",
+      "target": "A heat recovery coke oven uses the waste heat from coking for power generation."
+    },
+    {
+      "id": "8",
+      "source": "焦炉煤气经净化后可作为燃料或化工原料。",
+      "target": "After purification, coke oven gas (COG) can be used as a fuel or as a chemical feedstock."
+    }
+  ]
+}
