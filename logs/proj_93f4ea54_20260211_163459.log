@@ -95,3 +95,24 @@
   已发送: proj_93f4ea54_bilingual.csv
 
 --- 第10步：清理本地文件 ---
+[master 20276ef] 清理 proj_93f4ea54 本地文件
+ 7 files changed, 29 insertions(+), 3258 deletions(-)
+ delete mode 100644 projects/proj_93f4ea54/batches/batch_001.json
+ delete mode 100644 projects/proj_93f4ea54/batches/manifest.json
+ delete mode 100644 projects/proj_93f4ea54/final/proj_93f4ea54_bilingual.csv
+ delete mode 100644 projects/proj_93f4ea54/final/proj_93f4ea54_translated.sdlxliff
+ delete mode 100644 projects/proj_93f4ea54/output/batch_001.json
+ delete mode 100644 projects/proj_93f4ea54/source/proj_93f4ea54.sdlxliff
+   6e2ef52..20276ef  master -> master
+  本地已清理（文件保留在 GitHub）
+
+========================================
+  翻译完成!
+========================================
+  总计:   70 段, 1 批次
+  并发:   1 个 Agent
+  方向:   zh-CN -> en-US
+  耗时:   343秒
+  存档:   GitHub (translation-workspace)
+  飞书:   已发送两份文件
+  本地:   已清理
