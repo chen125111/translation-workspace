@@ -1,0 +1,30 @@
+{
+  "batch_number": 2,
+  "translations": [
+    {
+      "id": "6",
+      "source": "干法熄焦用惰性气体冷却焦炭。",
+      "target": "In dry quenching, coke is cooled using an inert gas."
+    },
+    {
+      "id": "7",
+      "source": "筛焦楼将焦炭按粒度分级。",
+      "target": "The coke screening building grades coke by particle size."
+    },
+    {
+      "id": "8",
+      "source": "配煤工艺决定了焦炭的质量。",
+      "target": "The coal blending process determines coke quality."
+    },
+    {
+      "id": "9",
+      "source": "热回收焦炉利用废热发电。",
+      "target": "Heat-recovery coke ovens use waste heat to generate electricity."
+    },
+    {
+      "id": "10",
+      "source": "焦炉煤气是重要的副产品。",
+      "target": "Coke oven gas is an important by-product."
+    }
+  ]
+}
