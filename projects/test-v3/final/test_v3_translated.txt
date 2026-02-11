@@ -1,0 +1,15 @@
+The coke oven is the core piece of equipment for coking.
+The coal-charging and coke-pushing car is one of the most critical pieces of equipment in coke-oven operations.
+Wet quenching is a traditional method in which red-hot coke is cooled by spraying it with water.
+Dry quenching cools coke with an inert gas, allowing heat to be recovered.
+The coke screening building classifies coke by size into large, medium, and small coke.
+The coal blending process is an important step in ensuring coke quality.
+A heat-recovery coke oven uses waste heat from coking to generate electricity.
+After purification, coke oven gas can be used as a fuel or as a chemical feedstock.
+The dust removal system ensures emissions meet environmental standards.
+The production scheduling center coordinates the operation of each process.
+The quality inspection center is responsible for quality testing of coke products.
+The electrical system provides reliable power to all plant equipment.
+The instrumentation and automatic control system enables automated management of the production process.
+A safety management system is the fundamental safeguard for safe production.
+Performance evaluation verifies whether the plant's design targets are met.
