@@ -1,5 +1,23 @@
 {
-  "_说明": "术语表模板 — 添加你的项目术语到下面",
-  "_格式": "英文术语: 中文翻译",
-  "example_term": "示例术语"
+  "_说明": "通用冶金/焦化术语表 — 翻译时必须使用这些术语",
+  "焦炉": "coke oven",
+  "热回收": "heat recovery",
+  "炼焦": "coking",
+  "装煤": "coal charging",
+  "推焦": "coke pushing",
+  "熄焦": "coke quenching",
+  "干熄焦": "dry quenching (CDQ)",
+  "湿熄焦": "wet quenching",
+  "配煤": "coal blending",
+  "筛焦": "coke screening",
+  "捣固": "tamping",
+  "焦炉煤气": "coke oven gas (COG)",
+  "高炉": "blast furnace",
+  "铁水": "hot metal",
+  "除尘": "dust removal / dust collection",
+  "皮带机": "belt conveyor",
+  "给料机": "feeder",
+  "粉碎机": "crusher",
+  "变电所": "substation",
+  "配电室": "power distribution room"
 }

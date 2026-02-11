@@ -14,8 +14,12 @@ import argparse
 import re
 
 
-def extract_segments(sdlxliff_path):
-    """从 SDLXLIFF 文件中提取所有待翻译段落"""
+def extract_segments(sdlxliff_path, extract_all=False):
+    """从 SDLXLIFF 文件中提取待翻译段落
+    
+    extract_all=True: 提取全部段落（忽略已有译文，全部重翻）
+    extract_all=False: 只提取 target 为空的段落
+    """
     tree = ET.parse(sdlxliff_path)
     root = tree.getroot()
     
@@ -40,7 +44,7 @@ def extract_segments(sdlxliff_path):
             if target_elem is not None:
                 target_text = ''.join(target_elem.itertext()).strip()
             
-            if source_text and not target_text:  # 只提取未翻译的
+            if source_text and (extract_all or not target_text):
                 segments.append({
                     'id': tu_id,
                     'source': source_text
@@ -114,6 +118,7 @@ def main():
     parser.add_argument('output_dir', help='输出目录')
     parser.add_argument('--batch-size', type=int, default=50, help='每批段落数（默认50）')
     parser.add_argument('--project', default='translation', help='项目名称')
+    parser.add_argument('--all', action='store_true', help='提取全部段落（包括已有译文的，用于全部重翻）')
     
     args = parser.parse_args()
     
@@ -121,8 +126,9 @@ def main():
         print(f"错误: 文件不存在: {args.input}", file=sys.stderr)
         sys.exit(1)
     
-    print(f"正在提取: {args.input}")
-    segments = extract_segments(args.input)
+    mode = "全部段落" if args.all else "仅未翻译段落"
+    print(f"正在提取: {args.input} ({mode})")
+    segments = extract_segments(args.input, extract_all=args.all)
     
     if not segments:
         print("警告: 未提取到任何待翻译段落", file=sys.stderr)
