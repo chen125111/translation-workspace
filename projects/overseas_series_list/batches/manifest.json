@@ -1,0 +1,8 @@
+{
+  "project": "overseas_series_list",
+  "total_segments": 70,
+  "total_batches": 1,
+  "batch_files": [
+    "batch_001.json"
+  ]
+}
