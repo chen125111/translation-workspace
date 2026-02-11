@@ -1,0 +1,30 @@
+{
+  "batch_number": 4,
+  "translations": [
+    {
+      "id": "16",
+      "source": "安全管理是生产的第一要务。",
+      "target": "Safety management is the top priority in production."
+    },
+    {
+      "id": "17",
+      "source": "设备维护延长设备使用寿命。",
+      "target": "Equipment maintenance extends the service life of equipment."
+    },
+    {
+      "id": "18",
+      "source": "交接班制度保证生产连续性。",
+      "target": "The shift handover system ensures continuity of production."
+    },
+    {
+      "id": "19",
+      "source": "消防系统保障工厂安全。",
+      "target": "The fire protection system safeguards plant safety."
+    },
+    {
+      "id": "20",
+      "source": "性能考核验证设计指标。",
+      "target": "Performance assessment verifies the design specifications."
+    }
+  ]
+}
