@@ -1,0 +1,30 @@
+{
+  "batch_number": 1,
+  "translations": [
+    {
+      "id": "1",
+      "source": "焦炉是炼焦的核心设备。",
+      "target": "The coke oven is the core piece of equipment in the coking process."
+    },
+    {
+      "id": "2",
+      "source": "装煤车负责向焦炉装入配合煤。",
+      "target": "The coal charging car is responsible for charging the coal blend into the coke oven."
+    },
+    {
+      "id": "3",
+      "source": "推焦车将成熟的焦炭从焦炉中推出。",
+      "target": "The coke pusher pushes the fully coked coke out of the coke oven."
+    },
+    {
+      "id": "4",
+      "source": "熄焦车将红热焦炭运送到熄焦塔。",
+      "target": "The quenching car transports the red-hot coke to the quenching tower."
+    },
+    {
+      "id": "5",
+      "source": "湿法熄焦用水冷却红热焦炭。",
+      "target": "In wet quenching, water is used to cool red-hot coke."
+    }
+  ]
+}
