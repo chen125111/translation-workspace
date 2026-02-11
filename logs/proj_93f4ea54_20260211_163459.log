@@ -1,0 +1,23 @@
+  [检测] 文件无扩展名(8ad9b7eb-7807-4b...)，内容为SDLXLIFF，重命名为 proj_93f4ea54.sdlxliff
+========================================
+  翻译项目启动 (v4)
+========================================
+  源文件: proj_93f4ea54.sdlxliff
+  项目:   proj_93f4ea54
+  方向:   zh-CN -> en-US
+  批次:   每批 150 段
+
+--- 第1步：准备并拆分 ---
+正在提取: /home/cc/translation-workspace/projects/proj_93f4ea54/source/proj_93f4ea54.sdlxliff (全部段落)
+共提取 70 个待翻译段落
+拆分为 1 个批次（每批最多 150 段）
+
+  批次 1/1: 70 个段落 -> batch_001.json
+
+清单文件: /home/cc/translation-workspace/projects/proj_93f4ea54/batches/manifest.json
+
+✅ 完成！共 70 段，1 批
+   输出目录: /home/cc/translation-workspace/projects/proj_93f4ea54/batches/
+  => 70 段, 1 批次, 1 并发 (auto)
+
+--- 第2步：推送到 GitHub ---
