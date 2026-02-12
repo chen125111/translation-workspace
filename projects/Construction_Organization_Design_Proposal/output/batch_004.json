@@ -1,0 +1,205 @@
+{
+  "batch_number": 4,
+  "translations": [
+    {
+      "id": "8993c8cb-fc83-4391-a6e6-c98709733117",
+      "source": "螺栓焊接牢固，无松动，误差≤1mm。",
+      "target": "The bolts shall be firmly welded with no loosening; tolerance ≤ 1 mm."
+    },
+    {
+      "id": "1a9fb293-bd91-4d7f-a640-6fd61c904e0c",
+      "source": "定位点和标高符合设计要求，误差≤2mm，高程控制在0~10mm范围内。",
+      "target": "The setting-out points and elevations shall meet the design requirements; tolerance ≤ 2 mm, and the elevation deviation shall be controlled within 0–10 mm."
+    },
+    {
+      "id": "e3617c34-a406-4e92-8a81-377ff95b6443",
+      "source": "混凝土浇筑过程中螺栓组不移动，浇筑完成后再次测量螺栓位置准确性。",
+      "target": "During concrete pouring, the bolt assembly shall not move; after pouring is completed, re-measure to verify the accuracy of the bolt positions."
+    },
+    {
+      "id": "7cb807d5-8a70-4105-bf74-487f15b66f32",
+      "source": "混凝土浇筑时，用胶带包裹所有暴露螺纹部分进行保护。",
+      "target": "During concrete pouring, wrap all exposed threaded parts with tape for protection."
+    },
+    {
+      "id": "d4e58d16-1bd9-4392-b1cd-f7387bece50c",
+      "source": "5.4.2\t预埋铁件",
+      "target": "5.4.2\tEmbedded steel parts"
+    },
+    {
+      "id": "c3c42648-3227-448b-bb62-ea84facd2b75",
+      "source": "受力预埋件的锚筋采用热轧钢筋，严禁使用冷加工钢筋。",
+      "target": "For load-bearing embedded items, the anchor bars shall be hot-rolled rebar; cold-worked rebar is strictly prohibited."
+    },
+    {
+      "id": "91ca75d8-70df-4a56-b1d8-cfdc0b2bc96b",
+      "source": "预埋钢筋中，应力锚筋不少于4根，直径≥8mm且≤25mm。",
+      "target": "For embedded reinforcement, the stressed anchor bars shall be no fewer than 4, with diameters ≥ 8 mm and ≤ 25 mm."
+    },
+    {
+      "id": "e049df87-2806-4608-b9ad-e6549f19aece",
+      "source": "抗震预埋件的锚筋横截面积比设计值增加25%，相应调整锚固板厚度，锚板附近设置直径≥10mm的闭合箍筋。",
+      "target": "For seismic embedded items, the cross-sectional area of the anchor bars shall be increased by 25% over the design value; adjust the anchorage plate thickness accordingly, and provide closed stirrups of diameter ≥ 10 mm near the anchor plate."
+    },
+    {
+      "id": "4668095b-2c27-4c85-bb71-7928f89f0ec5",
+      "source": "预埋件安装：采用钢筋焊接定位固定，测量垂直和水平轴线到基础四边，测量水平标高到基础一侧，定位并焊接预埋件，定位后重复测量，再测量与相邻预埋件的距离，确保定位和标高准确。",
+      "target": "Installation of embedded parts: use rebar welding for positioning and fixation; measure the vertical and horizontal centerlines to the four sides of the foundation, and measure the level elevation to one side of the foundation; position and weld the embedded parts; after positioning, repeat the measurements, and then measure the distance to adjacent embedded parts to ensure accurate positioning and elevation."
+    },
+    {
+      "id": "26c32f1e-b890-4779-9705-9d51ae51929b",
+      "source": "5.5\t设备安装",
+      "target": "5.5\tEquipment Installation"
+    },
+    {
+      "id": "4fd3501a-6054-457b-8b30-2b4836006472",
+      "source": "5.5.1\t皮带输送机安装",
+      "target": "5.5.1\tBelt Conveyor Installation"
+    },
+    {
+      "id": "c0747704-e6b6-4e69-8950-0e5cb910abb5",
+      "source": "安装前准备",
+      "target": "Pre-installation Preparation"
+    },
+    {
+      "id": "b05d34cd-a118-4c3e-95cf-bdda4d042e11",
+      "source": "检查输送机部件是否齐全，型号规格是否符合设计要求，有无运输损坏。",
+      "target": "Check whether all conveyor components are complete, whether the model and specifications meet the design requirements, and whether any transport damage has occurred."
+    },
+    {
+      "id": "a286c8a8-50f8-48a8-92f8-02097e952de7",
+      "source": "清理安装场地，确保场地平整、无障碍物，铺设临时运输道路。",
+      "target": "Clear the installation area to ensure it is level and free of obstructions, and lay temporary transport roads."
+    },
+    {
+      "id": "36e22e1e-2125-4049-8511-5baab79d0894",
+      "source": "检查基础标高、位置尺寸是否符合设计要求，预留孔位置和尺寸准确。",
+      "target": "Check whether the foundation elevation and position/dimensions meet the design requirements, and that the positions and dimensions of the reserved holes are accurate."
+    },
+    {
+      "id": "4c49b51e-cc9c-478c-ad74-e2f3b57e0a14",
+      "source": "安装顺序",
+      "target": "Installation Sequence"
+    },
+    {
+      "id": "73afe663-bc67-4245-973b-39671e5c6a58",
+      "source": "基础验收与测量→机座（含板）和轴承座安装→滚筒安装→托辊安装→输送带铺设→驱动装置安装→拉紧装置安装→安全保护装置安装→电气系统安装→调试。",
+      "target": "Foundation acceptance and surveying → installation of base frame (including base plates) and bearing housings → pulley installation → idler installation → conveyor belt laying → drive unit installation → take-up device installation → safety protection device installation → electrical system installation → commissioning."
+    },
+    {
+      "id": "b0e76e33-d658-4cea-81d7-e49385a0d637",
+      "source": "关键安装要求",
+      "target": "Key Installation Requirements"
+    },
+    {
+      "id": "d93dd9ca-2349-4624-87e0-7f47bbd4a6e0",
+      "source": "输送带的安装：输送带是皮带输送机的主要组成部分，贯穿于皮带输送机的全长。减少输送带的故障率，是提高皮带输送机寿命和降低运行费用的重要方法。",
+      "target": "Conveyor belt installation: the belt is the main component of a belt conveyor and runs along its entire length. Reducing belt failure rates is an important way to extend the service life of the belt conveyor and reduce operating costs."
+    },
+    {
+      "id": "fc126886-01b2-41aa-a7a8-1e3270fa03d2",
+      "source": "在输送带安装过程中，要保证输送带接头质量必须平直、不起胶、不鼓气泡、黏合紧密、光滑；两卷输送带的中心线不重合度小于3mm。胶带机运转过程中，输送带不打滑、不跑偏，跑偏量不得超过带宽的5%。",
+      "target": "During belt installation, ensure the splice quality: it shall be straight, with no debonding, no blistering, tight bonding, and a smooth surface; the misalignment between the centerlines of two belt rolls shall be less than 3 mm. During belt conveyor operation, the belt shall not slip or mistrack, and the mistracking deviation shall not exceed 5% of the belt width."
+    },
+    {
+      "id": "1907f2e8-d2e3-4c82-b955-034db7f7840c",
+      "source": "驱动装置的安装：驱动装置在皮带输送机正常运行时提供牵引力，是皮带输送机的核心装置。",
+      "target": "Drive unit installation: the drive unit provides traction during normal operation of the belt conveyor and is the core unit of the belt conveyor."
+    },
+    {
+      "id": "69c78c46-8547-4be0-9eb6-3a70d88400ff",
+      "source": "驱动装置安装时，要确保皮带输送机中心线和传动滚筒轴线垂直，且在传动滚筒宽度中心线上；确保传动滚筒和转向滚筒轴的水平度不应超过0.3‰，传动滚筒和改向滚筒宽度中心线与皮带输送机纵向中心线不重合度不超2mm，传动滚筒和改向滚筒轴心线与皮带输送机纵向中心线的不垂直度不超滚筒宽度的2‰。",
+      "target": "During drive unit installation, ensure that the belt conveyor centerline is perpendicular to the axis of the drive pulley and lies on the centerline of the drive pulley width; ensure that the levelness of the drive pulley and bend pulley shafts does not exceed 0.3‰; the misalignment between the width centerlines of the drive pulley and bend pulley and the longitudinal centerline of the belt conveyor shall not exceed 2 mm; the deviation from perpendicularity between the axes of the drive pulley and bend pulley and the longitudinal centerline of the belt conveyor shall not exceed 2‰ of the pulley width."
+    },
+    {
+      "id": "48c8e419-fcdc-4ceb-b57b-6c02f3f48afb",
+      "source": "驱动装置安装调试时，保证电动机无异常声音、无异常发热和振动现象；减速器试运转时没有异常声音和异常振动现象，箱体表面温度不超标准，齿面无过量磨损，紧固螺栓不松动；制动器和逆止器无异常声音和发热现象，各转动销轴无卡住或异常磨损。",
+      "target": "During installation and commissioning of the drive unit, ensure that the motor has no abnormal noise, overheating, or vibration; during the trial run of the gearbox, there shall be no abnormal noise or vibration, the housing surface temperature shall not exceed the standard, gear tooth surfaces shall have no excessive wear, and fastening bolts shall not loosen; the brake and backstop shall have no abnormal noise or overheating, and all rotating pins/shafts shall not seize or exhibit abnormal wear."
+    },
+    {
+      "id": "905fe1e9-c776-44c1-a8a4-4f9b195b01bd",
+      "source": "托辊与机架的安装：托辊安装在机架上，对输送带起支撑作用，使输送带悬垂度不超规定要求。要求托辊转动灵活，且与皮带输送机中心线垂直，托辊无异常声音和卡死现象。机架中心线与皮带输送机纵向中心线不重合度不超3mm；机架两槽钢对应点相对高低差不超3mm。",
+      "target": "Idler and frame installation: idlers are installed on the frame to support the belt so that belt sag does not exceed the specified requirements. Idlers shall rotate freely and be perpendicular to the belt conveyor centerline, with no abnormal noise or jamming. The misalignment between the frame centerline and the belt conveyor longitudinal centerline shall not exceed 3 mm; the relative elevation difference between corresponding points of the two channel steels of the frame shall not exceed 3 mm."
+    },
+    {
+      "id": "ffed108a-d8fc-4085-8408-236a0ba7769e",
+      "source": "拉紧装置的安装：拉紧装置可以补偿输送带弹性和塑性形变，使输送带有足够的张力，防止皮带输送机打滑。",
+      "target": "Take-up device installation: the take-up device can compensate for elastic and plastic deformation of the belt, providing sufficient belt tension to prevent belt conveyor slippage."
+    },
+    {
+      "id": "df6fd1d8-31dd-4ce9-b807-5b1fc736a013",
+      "source": "拉紧装置钢丝绳不能有生锈和断丝现象，输送带不能出现松弛现象；尽量安装在靠近传动滚筒的空载分支上，有利于启动和制动时不产生打滑现象；尽量安装在输送带张力最小的地方，从而减小拉紧力。",
+      "target": "The wire rope of the take-up device shall have no rust or broken wires, and the belt shall not be slack; it should be installed, as far as possible, on the return (unloaded) strand near the drive pulley to help prevent slippage during start-up and braking; it should also be installed, where possible, at the location of minimum belt tension to reduce the take-up force."
+    },
+    {
+      "id": "ef679a03-c0d3-45dc-ab47-560d0ee39fd2",
+      "source": "保护装置的安装：防滑保护装置安装在皮带输送机回程带上面，对于固定皮带输送机，防滑保护装置装在机头卸载滚筒与驱动滚筒之间。",
+      "target": "Installation of protection devices: the anti-slip protection device shall be installed above the return belt; for fixed belt conveyors, the anti-slip protection device shall be installed between the head discharge pulley and the drive pulley."
+    },
+    {
+      "id": "a4097f3f-0a4e-4a79-9b6a-4b3ced9fb6da",
+      "source": "堆料保护安装在两部皮带输送机搭接处，保护触头应在卸载滚筒前方吊挂，保护触头吊挂高度不得高于卸载滚筒下沿。",
+      "target": "The pile-up protection device shall be installed at the overlap/transfer point between two belt conveyors. The protection contact shall be suspended in front of the discharge pulley, and the suspension height shall not be higher than the lower edge of the discharge pulley."
+    },
+    {
+      "id": "a8b59532-cff3-4ec3-ae82-ab7451299a61",
+      "source": "跑偏保护成对安装，且机头、机尾处各安装一组，使用专用托架固定在皮带输送机机架上。",
+      "target": "Mistracking protection devices shall be installed in pairs, with one set installed at the head and one set at the tail, and fixed to the belt conveyor frame using dedicated brackets."
+    },
+    {
+      "id": "6db1e871-6a5a-4359-91f1-1f2d8d1b89a4",
+      "source": "温度传感器安装在皮带输送机的主动滚筒附近，温度探头应紧贴主滚筒外壁。",
+      "target": "The temperature sensor shall be installed near the drive pulley of the belt conveyor, and the temperature probe shall be in close contact with the outer wall of the main pulley."
+    },
+    {
+      "id": "09834fec-5501-488b-9f50-1929334fb2a5",
+      "source": "多部皮带输送机搭接安装：多部皮带输送机搭接时，物料从前一部皮带输送机卸载处落到后部皮带输送机的受料处。皮带输送机安装时，前一部皮带输送机卸载滚筒与后部皮带输送机之间落差要保持在1m左右。保证物料能够顺利卸载到受料皮带输送机上，而又不会有太大的冲击力。",
+      "target": "Overlapped installation of multiple belt conveyors: when multiple belt conveyors are overlapped/connected, material falls from the discharge point of the preceding belt conveyor to the receiving point of the subsequent belt conveyor. During installation, the drop height between the discharge pulley of the preceding belt conveyor and the subsequent belt conveyor shall be maintained at about 1 m to ensure smooth discharge onto the receiving belt conveyor without excessive impact."
+    },
+    {
+      "id": "7a57f399-75e5-448c-81cb-6598fdbb082a",
+      "source": "5.5.2\t转运塔及附属设备安装",
+      "target": "5.5.2\tInstallation of Transfer Tower and Auxiliary Equipment"
+    },
+    {
+      "id": "91f8c8d3-8a59-4ab0-8e21-23a639cf2434",
+      "source": "转运塔安装",
+      "target": "Transfer Tower Installation"
+    },
+    {
+      "id": "329cae5c-4bdc-4011-a8f9-af3f5a72e227",
+      "source": "转运塔构件吊装按顺序进行，先安装立柱、横梁，再安装侧板、顶板。",
+      "target": "Hoisting of transfer tower members shall be carried out in sequence: install columns and beams first, then install side plates and roof plates."
+    },
+    {
+      "id": "b960e740-aec4-482d-8a8f-3c7267a136bd",
+      "source": "立柱安装垂直度偏差≤1mm/m，横梁安装水平度偏差≤0.5mm/m，构件连接螺栓拧紧力矩符合设计要求。",
+      "target": "The column installation verticality deviation shall be ≤ 1 mm/m, the beam installation levelness deviation shall be ≤ 0.5 mm/m, and the tightening torque of member connection bolts shall meet the design requirements."
+    },
+    {
+      "id": "b00d308d-701f-4fe8-859f-064e57be424b",
+      "source": "安装完成后，进行除锈防腐处理，涂刷防腐涂料。",
+      "target": "After installation is completed, carry out derusting and anticorrosion treatment and apply anticorrosive coating."
+    },
+    {
+      "id": "938b090f-282a-4faf-a506-3fdded7c3240",
+      "source": "料斗、分流阀安装",
+      "target": "Installation of Hopper and Diverter Valve"
+    },
+    {
+      "id": "c5134baa-1738-4acc-ad8a-afb180ba08d9",
+      "source": "料斗安装：按设计位置固定，焊缝牢固，无渗漏；内壁光滑，无尖锐边角。",
+      "target": "Hopper installation: fix it in the designed position; welds shall be sound with no leakage; the inner surface shall be smooth with no sharp edges or corners."
+    },
+    {
+      "id": "a4f22986-6d32-43aa-897c-6bdba3a04611",
+      "source": "分流阀安装：定位准确，操作灵活，阀门关闭严密，无卡涩现象。",
+      "target": "Diverter valve installation: accurate positioning, flexible operation, tight closure, and no sticking or binding."
+    },
+    {
+      "id": "9cbf385d-2852-43b1-ac97-fb1809063d4b",
+      "source": "磁选机、皮带秤安装",
+      "target": "Installation of Magnetic Separator and Belt Scale"
+    }
+  ]
+}
