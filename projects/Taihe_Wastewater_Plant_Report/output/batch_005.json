@@ -1,0 +1,95 @@
+{
+  "batch_number": 5,
+  "translations": [
+    {
+      "id": "9c177292-1f72-4b63-b403-c1ea2b5c37f4",
+      "source": "高工",
+      "target": "Senior Engineer"
+    },
+    {
+      "id": "bcbbfd52-cb27-4e0c-b21a-ab88b6eae2af",
+      "source": "布兴华",
+      "target": "Bu Xinghua"
+    },
+    {
+      "id": "82a4e94b-78ec-4f8e-8782-3fe2408e0c31",
+      "source": "上海险区院所",
+      "target": "Shanghai Xianqu Institutes"
+    },
+    {
+      "id": "6dd36c1e-cb35-4240-bcd9-f8636d79f38d",
+      "source": "朴奕健",
+      "target": "Pu Yijian"
+    },
+    {
+      "id": "25087ef3-5d1f-4e09-a2e9-31b8a095dd87",
+      "source": "上海山南勘沂",
+      "target": "Shanghai Shannan Kanyi"
+    },
+    {
+      "id": "654c73c6-0a5a-44ac-a0f6-906e5d3c36e4",
+      "source": "刘发辉",
+      "target": "Liu Fahui"
+    },
+    {
+      "id": "cdcb791a-dcd4-4b09-a05e-a03b271c3a15",
+      "source": "上海华城",
+      "target": "Shanghai Huacheng"
+    },
+    {
+      "id": "a73b1c62-6b95-4b22-8183-468a565ea234",
+      "source": "高工",
+      "target": "Senior Engineer"
+    },
+    {
+      "id": "2f46db1e-c3d4-4ef1-bd7c-95970a0eb310",
+      "source": "祝建伟",
+      "target": "Zhu Jianwei"
+    },
+    {
+      "id": "1d9054e2-d06d-4cc4-a985-76e6d02aeec2",
+      "source": "上海城投水务建设",
+      "target": "Shanghai Chengtou Water Affairs Construction"
+    },
+    {
+      "id": "beac16cb-86a8-4f90-8d0c-cbeb5caca036",
+      "source": "刘子毅",
+      "target": "Liu Ziyi"
+    },
+    {
+      "id": "8251ff69-7deb-4c7c-a691-f0f5ea75b440",
+      "source": "上海城投水务建设",
+      "target": "Shanghai Chengtou Water Affairs Construction"
+    },
+    {
+      "id": "5f1983c6-9cc3-46ee-b540-8ed4b7292b08",
+      "source": "建设单位项目负责人：刘发辉",
+      "target": "Project Owner's Project Manager: Liu Fahui"
+    },
+    {
+      "id": "c61b76bf-36f0-4252-ae32-33fa1f874998",
+      "source": "（公章）",
+      "target": "(Official Seal)"
+    },
+    {
+      "id": "75e9f325-ffa1-48ef-9055-9499754fa61c",
+      "source": "建设单位法定代表人：周骅",
+      "target": "Legal Representative of the Project Owner: Zhou Hua"
+    },
+    {
+      "id": "1892fb83-43a5-40d0-9f30-9a1bbadbee48",
+      "source": "年\t月\t日",
+      "target": "Year\tMonth\tDay"
+    },
+    {
+      "id": "b42770d6-e2cd-42b2-a632-4d1e9ae3818a",
+      "source": "注：建设单位对经竣工验收的工程质量全面负责",
+      "target": "Note: The project owner bears full responsibility for the quality of the works that have passed completion acceptance."
+    },
+    {
+      "id": "8bcdbc1d-ffe5-4945-b9cb-2011da62eea3",
+      "source": "上海城投水务（集团）有限公司（章）",
+      "target": "Shanghai Chengtou Water Affairs (Group) Co., Ltd. (Seal)"
+    }
+  ]
+}
