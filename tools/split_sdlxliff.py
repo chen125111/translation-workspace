@@ -67,11 +67,30 @@ def extract_segments(sdlxliff_path, extract_all=False):
 
 
 def split_into_batches(segments, batch_size=50):
-    """将段落拆分成批次"""
+    """将段落均匀拆分成批次
+    
+    不再简单按 batch_size 切割（会导致最后一批极少），
+    而是先算出需要多少批，再把段落均匀分配到每批。
+    例: 162段, batch_size=40 → 5批 → 33,33,32,32,32
+    """
+    total = len(segments)
+    if total == 0:
+        return []
+    
+    # 计算需要几批（向上取整）
+    num_batches = max(1, -(-total // batch_size))  # ceil division
+    
+    # 均匀分配: 前 remainder 批多1个
+    base_size = total // num_batches
+    remainder = total % num_batches
+    
     batches = []
-    for i in range(0, len(segments), batch_size):
-        batch = segments[i:i + batch_size]
-        batches.append(batch)
+    idx = 0
+    for i in range(num_batches):
+        size = base_size + (1 if i < remainder else 0)
+        batches.append(segments[idx:idx + size])
+        idx += size
+    
     return batches
 
 
