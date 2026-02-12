@@ -1,0 +1,9 @@
+{
+  "project": "Construction_Organization_Design_Proposal",
+  "total_segments": 162,
+  "total_batches": 2,
+  "batch_files": [
+    "batch_001.json",
+    "batch_002.json"
+  ]
+}
