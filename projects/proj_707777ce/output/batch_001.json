@@ -1,0 +1,95 @@
+{
+  "batch_number": 1,
+  "translations": [
+    {
+      "id": "9671e206-03bd-4884-94c5-5ceeffcf3ddf",
+      "source": "工备（PS）-12-☐☐☐",
+      "target": "Work Preparation (PS)-12-☐☐☐"
+    },
+    {
+      "id": "64b779d3-e0b0-4076-a1f8-8d1234506f00",
+      "source": "编号：",
+      "target": "No.:"
+    },
+    {
+      "id": "66ef410a-2e83-42ab-979f-4e1a031bc23f",
+      "source": "建设工程竣工验收报告",
+      "target": "Completion Acceptance Report for Construction Projects"
+    },
+    {
+      "id": "a2a9a84e-0ed4-4b5d-8ece-c9062d69a008",
+      "source": "（给水排水建设工程）",
+      "target": "(Water Supply and Drainage Construction Project)"
+    },
+    {
+      "id": "17e77206-63a3-45a9-b488-92b051b63f10",
+      "source": "上海城投水务（集团）有限公司（章）",
+      "target": "Shanghai Chengtou Water Affairs (Group) Co., Ltd. (Seal)"
+    },
+    {
+      "id": "ad2663d6-756d-4643-8f01-885dbe34365b",
+      "source": "工程名称：",
+      "target": "Project Name:"
+    },
+    {
+      "id": "23ed7172-8398-4070-be7d-6471a9648d49",
+      "source": "泰和污水处理厂扩建工程THK2.1标",
+      "target": "Taihe Wastewater Treatment Plant Expansion Project, Contract THK2.1"
+    },
+    {
+      "id": "b1d93e3e-3f6e-4ed7-b0c1-5e87d803676a",
+      "source": "（设备采购及全厂安装调试）",
+      "target": "(Equipment Procurement and Plant-wide Installation and Commissioning)"
+    },
+    {
+      "id": "45921a9f-6b10-4247-b336-e303a62febf2",
+      "source": "建设单位名称：",
+      "target": "Name of Project Owner:"
+    },
+    {
+      "id": "58ddacdc-d4fe-4e5e-9b29-fe2acfbf0fb6",
+      "source": "上海城投水务（集团）有限公司",
+      "target": "Shanghai Chengtou Water Affairs (Group) Co., Ltd."
+    },
+    {
+      "id": "9fe851db-08c2-4f75-938e-b55c3e01d210",
+      "source": "竣工验收时间：",
+      "target": "Date of Completion Acceptance:"
+    },
+    {
+      "id": "1fe1d833-9cf5-4ec2-89e6-580058864be3",
+      "source": "2025年07月15日",
+      "target": "July 15, 2025"
+    },
+    {
+      "id": "5bd8c61e-b674-4375-85a3-3e7cc95ac195",
+      "source": "上海市水务局制",
+      "target": "Prepared by Shanghai Municipal Water Authority"
+    },
+    {
+      "id": "6b867eca-a50f-4ce3-95a7-8a9281ce2c73",
+      "source": "建设工程竣工验收报告",
+      "target": "Completion Acceptance Report for Construction Projects"
+    },
+    {
+      "id": "e0c0e00c-c1ea-4780-809e-578cc7ca3521",
+      "source": "工程名称",
+      "target": "Project Name"
+    },
+    {
+      "id": "0286eb6d-f6df-4db5-9833-8500e32414f4",
+      "source": "泰和污水处理厂扩建工程THK2.1标（设备采购及全厂安装调试）",
+      "target": "Taihe Wastewater Treatment Plant Expansion Project, Contract THK2.1 (Equipment Procurement and Plant-wide Installation and Commissioning)"
+    },
+    {
+      "id": "7b413b66-8268-496b-8a2f-67115b92a524",
+      "source": "工程地点",
+      "target": "Project Location"
+    },
+    {
+      "id": "8008919f-1cf3-4aca-8bce-3a8b63686a35",
+      "source": "上海市宝山区东至梅林路、南至蕴藻浜、西至泰联路、北至联谊路",
+      "target": "Baoshan District, Shanghai: bounded by Meilin Road to the east, Yunzaobang Creek to the south, Tailian Road to the west, and Lianyi Road to the north."
+    }
+  ]
+}
