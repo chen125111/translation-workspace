@@ -1,0 +1,12 @@
+{
+  "project": "Taihe_Wastewater_Plant_Report",
+  "total_segments": 94,
+  "total_batches": 5,
+  "batch_files": [
+    "batch_001.json",
+    "batch_002.json",
+    "batch_003.json",
+    "batch_004.json",
+    "batch_005.json"
+  ]
+}
