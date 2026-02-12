@@ -1,0 +1,205 @@
+{
+  "batch_number": 3,
+  "translations": [
+    {
+      "id": "e4bac637-4175-413b-bd3c-50ea8905de53",
+      "source": "e所有部件应正确、清晰地编号。",
+      "target": "e All components shall be correctly and clearly numbered."
+    },
+    {
+      "id": "e8f87e2b-219c-42b9-b968-371395e3d028",
+      "source": "3)钢支架吊装",
+      "target": "3) Steel support hoisting"
+    },
+    {
+      "id": "a282d287-4832-4a5b-982f-5a559cc535f3",
+      "source": "钢支架采用单台起重机吊装。为保证钢支架的顺利吊装，钢支架吊装前，应将临时脚手架和爬梯固定在地面上，并画出中心标高的三角形标记，挂上固定的缆索。将钢支架吊装到基础上，将钢支架中心与基础中心对齐，移动吊钩，用缆索和垫铁调整钢支架的垂直度，用千斤顶校正钢支架的水平偏差，拧紧地脚螺栓（见下图）。",
+      "target": "The steel supports shall be hoisted using a single crane. To ensure smooth lifting, before hoisting the steel supports, temporary scaffolding and ladders shall be secured to the ground, triangular reference marks at the center elevation shall be set out, and fixed guy ropes shall be attached. Hoist the steel supports onto the foundation, align the centerline of the steel supports with the foundation centerline, and adjust the hook position. Use guy ropes and shims to adjust the verticality of the steel supports, use jacks to correct level deviations, and tighten the anchor bolts (see the figure below)."
+    },
+    {
+      "id": "5d5424e4-ac8b-4801-b298-816ad3dbd2fd",
+      "source": "用千斤顶校正钢支架的水平偏差",
+      "target": "Use jacks to correct the level deviation of the steel supports."
+    },
+    {
+      "id": "905c747a-0e43-4e86-8c05-ec2fb807ffe6",
+      "source": "上部结构安装完成后，通过二次灌浆固定钢支架底部。",
+      "target": "After installation of the superstructure is completed, the bottom of the steel supports shall be secured by secondary grouting."
+    },
+    {
+      "id": "727b6f81-0809-47ad-84ba-746d4406d5f5",
+      "source": "4)皮带通廊吊装",
+      "target": "4) Belt conveyor gallery lifting"
+    },
+    {
+      "id": "1e906158-a7fa-4bab-851c-a9d55a60a996",
+      "source": "a皮带通廊运输到现场后，吊装前应进行质量审查，检查有无运输引起的扭曲和下弯，有无装卸车引起的边缘波浪形弯曲，有无侧弯和下弯。以上情况均应在地面上进行处理，经检查合格后方可进行吊装。",
+      "target": "a After the belt conveyor gallery is transported to site, a quality review shall be carried out prior to lifting. Check for torsion and sagging caused by transportation, edge wavy bending caused by loading/unloading, and any lateral bending and sagging. All such issues shall be rectified on the ground. Lifting may proceed only after inspection confirms compliance."
+    },
+    {
+      "id": "d6c4bfd2-cede-474a-a54e-43b1d054f770",
+      "source": "b最初对皮带通廊进行校准，然后临时固定以进行定位。皮带通廊的校正包括三个方面，即平面轴线、高程和垂直度。",
+      "target": "b First, align and calibrate the belt conveyor gallery, and then temporarily secure it for positioning. The calibration comprises three aspects: plan axis, elevation, and verticality."
+    },
+    {
+      "id": "5a87c9b5-114b-4abe-a948-389bec081e22",
+      "source": "c皮带通廊中心轴线的校正以钢支架的轴线为基础，确定皮带通廊的位置，同时检查钢支架的相对跨度。皮带通廊吊装时，钢支架要固定稳定。用水准仪检查皮带通廊的标高，以皮带通廊两端的标高为标准。在皮带通廊中间检查皮带通廊的垂直度采用挂线法对钢廊的垂直度进行检查和控制。皮带通廊必须在确认符合质量标准后才能用螺栓固定。",
+      "target": "c The centerline of the belt conveyor gallery shall be adjusted based on the axis of the steel supports to determine the gallery position, and the relative span of the steel supports shall be checked at the same time. During lifting of the belt conveyor gallery, the steel supports shall be fixed and stable. Use a level to check the elevation of the belt conveyor gallery, taking the elevations at both ends as the reference. For checking verticality at the middle of the gallery, use the plumb-line method to inspect and control the verticality of the steel gallery. The belt conveyor gallery may be bolted only after it is confirmed to meet the quality standards."
+    },
+    {
+      "id": "f52b7951-933e-4463-82e4-116136c9e1ef",
+      "source": "5.3\t屋面板安装",
+      "target": "5.3 Roof panel installation"
+    },
+    {
+      "id": "9c98e46d-19c8-4a28-991c-643713054819",
+      "source": "5.3.1\t工艺流程",
+      "target": "5.3.1 Process flow"
+    },
+    {
+      "id": "80ffed17-f476-4623-9c20-d826e977a950",
+      "source": "施工准备→检查檩条规格和放置尺寸→板匹配→放置并固定彩钢板→浇水试验→检查和验收",
+      "target": "Construction preparation → check purlin specifications and setting-out dimensions → panel matching → place and fix the color-coated steel sheets → water spray test → inspection and acceptance"
+    },
+    {
+      "id": "e688aeb4-6f21-42de-805c-979c7ff0127a",
+      "source": "5.3.2\t施工准备",
+      "target": "5.3.2 Construction preparation"
+    },
+    {
+      "id": "265c855c-585f-42ca-8079-4fbcd0314cdd",
+      "source": "完成所有准备工作后，再放置和固定夹芯板。",
+      "target": "After all preparatory work is completed, place and fix the sandwich panels."
+    },
+    {
+      "id": "ca37d76d-fa22-403a-814d-4e1d1618c02a",
+      "source": "检查檩条规格、间距和坡度是否符合设计要求，屋面板端部除设置檩条支撑外，中间部分增设檩条。",
+      "target": "Check whether the purlin specifications, spacing, and slope meet the design requirements. In addition to providing purlin supports at the ends of the roof panels, additional intermediate purlins shall be installed."
+    },
+    {
+      "id": "d2fb708b-d2e7-4343-a700-6140b0545502",
+      "source": "5.3.3\t板面布置",
+      "target": "5.3.3 Panel layout"
+    },
+    {
+      "id": "2eee86d3-5481-47c7-b65a-ab9eb6eea7fe",
+      "source": "根据设计图纸和实际屋面尺寸，绘制板材布置图，作为切割依据，切割板按顺序编号。",
+      "target": "Based on the design drawings and the actual roof dimensions, prepare a panel layout drawing as the basis for cutting. Number the cut panels sequentially."
+    },
+    {
+      "id": "94c74c8f-2952-4f0f-9263-5511bcf5e379",
+      "source": "彩钢板安装",
+      "target": "Installation of color-coated steel sheets"
+    },
+    {
+      "id": "49fc4268-84ac-4e2f-9959-395fdaffe220",
+      "source": "板的放置垂直水平对齐，长（纵向）搭接位于檩条处（双檩条或檩条侧焊接连续角钢），支撑长度≥50mm。",
+      "target": "Panels shall be placed with vertical and horizontal alignment. The longitudinal lap joint shall be located on the purlin (double purlins, or continuous angle steel welded to the side of the purlin), with a bearing length ≥ 50 mm."
+    },
+    {
+      "id": "141345e6-ff44-44e6-a75e-88bcea475dc7",
+      "source": "搭接方向沿最大年风向，纵向搭接长度：屋面坡度≥10%时为200mm，＜10%时为250mm；端部（横向）搭接沿水流方向，长度按板材类型确定。",
+      "target": "The lap direction shall follow the prevailing annual maximum wind direction. Longitudinal lap length: 200 mm when the roof slope is ≥ 10%, and 250 mm when it is < 10%. End (transverse) laps shall be along the water-flow direction, and the length shall be determined by the panel type."
+    },
+    {
+      "id": "0937503e-14a8-4948-a92d-14c106aec59c",
+      "source": "从檐口一端向另一端和屋脊方向同时放置，通过墙板固定夹与墙体固定。",
+      "target": "Place panels simultaneously from one end of the eave toward the other end and toward the ridge, and fix them to the wall using wall-panel fixing clips."
+    },
+    {
+      "id": "184abf15-4230-46d4-80af-d28a46a071cf",
+      "source": "每块屋面板两端支架通过自攻螺钉与檩条固定：纵向连接间距≤350mm，每块板与同一檩条和墙梁连接不少于3点，其他连接不少于2点；屋脊和檐口处多点连接。",
+      "target": "The supports at both ends of each roof panel shall be fastened to the purlins with self-tapping screws: spacing for longitudinal connections ≤ 350 mm; each panel shall have not fewer than 3 connection points to the same purlin and wall beam, and not fewer than 2 points for other connections; provide multi-point connections at the ridge and eaves."
+    },
+    {
+      "id": "f1685f60-9fee-468f-bac0-7417e4da6d31",
+      "source": "钻孔时垂直穿过屋面板和檩条，先垫防水密封垫圈，再套橡胶板和不锈钢压盖，拧紧螺栓。",
+      "target": "When drilling, drill perpendicular through the roof panel and the purlin. First place a waterproof sealing washer, then fit the rubber sheet and stainless-steel cover plate, and tighten the bolts."
+    },
+    {
+      "id": "bcb3a8e3-ee8f-4315-a3bd-ea5e38bc8a9b",
+      "source": "面板连接采用间距100-500mm的铆钉，长搭接处放置全长密封条，端部放置两个连续密封条。",
+      "target": "Panel joints shall use rivets at a spacing of 100–500 mm. A full-length sealing strip shall be placed at long lap joints, and two continuous sealing strips shall be placed at the ends."
+    },
+    {
+      "id": "1f5aa00a-b482-4a05-bb04-cf3d224a2300",
+      "source": "夹芯板用带防水垫圈的镀锌螺栓固定，固定点在波峰上，外露螺钉涂密封材料；螺栓拧紧后，用硅酮密封胶密封板搭接处。",
+      "target": "Sandwich panels shall be fixed with galvanized bolts with waterproof washers; fixing points shall be on the crest of the corrugation, and exposed screws shall be coated with sealant. After tightening the bolts, seal the panel laps with silicone sealant."
+    },
+    {
+      "id": "614df67a-34b8-4030-8aad-6876ed3287ad",
+      "source": "长搭接处用拉铆钉连接，拉铆钉涂硅酮密封剂，用金属或塑料压盖保护。",
+      "target": "At long lap joints, use blind rivets for connection. Apply silicone sealant to the blind rivets and protect them with metal or plastic caps."
+    },
+    {
+      "id": "dbba0e21-14f3-4064-b3ab-6ba9a3af663d",
+      "source": "固定位置要求：屋面自攻钉、拉铆钉在波峰处；墙面在波谷处。",
+      "target": "Fixing location requirements: roof self-tapping screws and blind rivets shall be at the crest; wall fasteners shall be at the trough."
+    },
+    {
+      "id": "1888eaf3-0f88-4c53-b650-f1c7911faeac",
+      "source": "淋水试验",
+      "target": "Water spray test"
+    },
+    {
+      "id": "4433fc00-f142-4ad0-ad18-7821057665b7",
+      "source": "屋面板固定后，进行至少2小时淋水试验，检查是否渗漏，发现问题及时修补。",
+      "target": "After the roof panels are fixed, carry out a water spray test for at least 2 hours to check for leakage; promptly repair any issues found."
+    },
+    {
+      "id": "68146be8-97ac-4444-b6f8-c08ca16c1def",
+      "source": "检查和验收",
+      "target": "Inspection and acceptance"
+    },
+    {
+      "id": "a4502b84-6e43-4b04-95a9-9447962be93b",
+      "source": "先进行内部检查，处理质量问题后，组织发包人验收，办理验收手续。",
+      "target": "Conduct an internal inspection first. After rectifying quality issues, organize acceptance by the Employer and complete the acceptance procedures."
+    },
+    {
+      "id": "8bd81c3a-0a57-499a-8b44-70eb556944e3",
+      "source": "成品保护",
+      "target": "Finished product protection"
+    },
+    {
+      "id": "a4631b48-3e68-4582-96d7-f0d4734a2c56",
+      "source": "施工时保护屋面外层钢板不受划伤，及时清理杂物，严禁堵塞落水管、天沟。",
+      "target": "During construction, protect the outer steel sheet of the roof from scratches, promptly remove debris, and strictly prohibit blocking downpipes and gutters."
+    },
+    {
+      "id": "1ceee67c-bf56-4ae1-a581-16532f2793cc",
+      "source": "彩钢板堆放场地平整坚实，分层堆放，轴承座沿长度方向放置；人工搬运不移动重叠钢板，机械吊装使用专用吊索。",
+      "target": "The storage area for color-coated steel sheets shall be level and firm. Stack in layers, with bearing blocks placed along the length direction. During manual handling, do not slide overlapped sheets; for mechanical lifting, use dedicated lifting slings."
+    },
+    {
+      "id": "ad1fe9af-151d-487a-90ce-6821090ddba8",
+      "source": "5.4\t预埋件",
+      "target": "5.4 Embedded parts"
+    },
+    {
+      "id": "50947a35-e2b1-40c3-92e1-1d8713bfe0b3",
+      "source": "5.4.1\t预埋螺栓安装",
+      "target": "5.4.1 Installation of embedded bolts"
+    },
+    {
+      "id": "46535ef9-11f4-4f7c-b076-84fa8743a3b5",
+      "source": "螺栓组组合：按图纸设计下料，单个螺栓按要求焊接组合，误差≤1mm。",
+      "target": "Bolt set assembly: cut materials according to the drawing design; weld and assemble individual bolts as required, with an error ≤ 1 mm."
+    },
+    {
+      "id": "b1c9069b-a8fb-412f-bd7f-6978f8778413",
+      "source": "螺栓组安装：根据设计要求，测量垂直和水平轴线到设备基础四边，测量水平标高到基础一侧，定位并焊接螺栓组，定位后重复测量，再测量与相邻螺栓组的间隙。",
+      "target": "Bolt set installation: in accordance with the design requirements, measure the vertical and horizontal axes to the four sides of the equipment foundation, and measure the level elevation to one side of the foundation. Position and weld the bolt set. After positioning, re-measure, and then measure the clear distance to adjacent bolt sets."
+    },
+    {
+      "id": "cf16f2b1-5503-4bd9-b4fa-5456f54b369e",
+      "source": "所有螺栓按示意图组装和安装。",
+      "target": "All bolts shall be assembled and installed in accordance with the schematic diagram."
+    },
+    {
+      "id": "d99e8040-f700-44e5-bbe4-b16f6aded1a3",
+      "source": "质量要求",
+      "target": "Quality requirements"
+    }
+  ]
+}
