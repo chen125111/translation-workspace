@@ -1,0 +1,95 @@
+{
+  "batch_number": 2,
+  "translations": [
+    {
+      "id": "2eae30ef-2ab2-4535-9ffa-d656aff2eaa3",
+      "source": "实物工作量",
+      "target": "Physical Work Quantities"
+    },
+    {
+      "id": "a9092490-afb1-425f-a645-98db96eb86bb",
+      "source": "泰和污水处理厂扩建工程THK2.1标（设备采购及全厂安装调试）合同范围包括全部机电设备（不包括自控设备的采购及安装）的系统集成、供货、安装、调试、人员培训及其他相关配合工作的全部内容，直至水、泥、气、声均达到设计要求，完成验收并移交运行单位。",
+      "target": "The contract scope of the Taihe Wastewater Treatment Plant Expansion Project, Package THK2.1 (equipment procurement and plant-wide installation and commissioning), covers the full scope of system integration, supply, installation, commissioning, personnel training, and other related coordination works for all mechanical and electrical equipment (excluding the procurement and installation of instrumentation and control equipment), until the water, sludge, gas, and noise meet the design requirements, completion acceptance is passed, and the facilities are handed over to the operating entity."
+    },
+    {
+      "id": "28b9a1ea-086f-40a1-9910-5aaa3a92e0ee",
+      "source": "本次提交竣工验收的主要工作量包括：",
+      "target": "The main work quantities submitted for completion acceptance include:"
+    },
+    {
+      "id": "c86d4a8e-baa5-443f-8480-a7d2adca29bd",
+      "source": "1）\t泰和污水厂及铁峰泵站一般设备的系统集成和供货。",
+      "target": "1) System integration and supply of general equipment for the Taihe Wastewater Treatment Plant and the Tiefeng Pump Station."
+    },
+    {
+      "id": "4b4e2c9f-2b67-471b-9d5b-b500ae920362",
+      "source": "2）\t泰和污水厂及铁峰泵站的全部设备安装（“THK2.2标”除外）、污水厂及铁峰泵站的调试（包括单机调试、系统单元调试和联动调试（联动调试包含“THK 2.2标”内容）等）及其他相关配合工作等。",
+      "target": "2) Installation of all equipment at the Taihe Wastewater Treatment Plant and the Tiefeng Pump Station (excluding Package “THK2.2”); commissioning of the wastewater treatment plant and the Tiefeng Pump Station (including single-equipment commissioning, system unit commissioning, and integrated/linked commissioning (with the integrated/linked commissioning covering the contents of Package “THK 2.2”), etc.); and other related coordination works."
+    },
+    {
+      "id": "6cb97ebd-c570-4b9a-995e-3e5ac87234e2",
+      "source": "3）\t工程完工后涉及的各类验收，包括但不限于通水性阶段验收、环保验收、节能验收、安全验收、职业卫生验收、消防验收、竣工资料验收、规划验收等各项验收备案工作。",
+      "target": "3) Various acceptance activities after project completion, including but not limited to the water-commissioning phase acceptance, environmental protection acceptance, energy-saving acceptance, safety acceptance, occupational health acceptance, fire protection acceptance, as-built documentation acceptance, planning acceptance, and the related acceptance filing/recording work."
+    },
+    {
+      "id": "9892c340-01aa-4fef-80fe-1e3bbe0eb799",
+      "source": "由本标直接供货的一般设备主要包括以下类型的设备和材料（不限于此）：",
+      "target": "The general equipment directly supplied under this package mainly includes the following types of equipment and materials (not limited to the items listed):"
+    },
+    {
+      "id": "e5e5b9eb-58a5-49aa-8308-214ee7ba24d3",
+      "source": "1）\t格栅类：包括粗格栅及配套的螺旋输送机、压榨机等；",
+      "target": "1) Screens: including coarse screens and supporting screw conveyors, presses, etc.;"
+    },
+    {
+      "id": "e8fa3192-cf0f-45c8-928d-936af110c822",
+      "source": "2）\t闸门、堰门类：包括全厂各单体中的铸铁闸门、渠道闸门以及堰门等；",
+      "target": "2) Gates and weir gates: including cast-iron sluice gates, channel gates, and weir gates in the various process units throughout the plant, etc.;"
+    },
+    {
+      "id": "b1e41a27-6320-43e9-b638-10ad70dcb865",
+      "source": "3）\t起重设备：包括电动葫芦、手动葫芦、桥式起重机等；",
+      "target": "3) Lifting equipment: including electric hoists, manual hoists, overhead cranes, etc.;"
+    },
+    {
+      "id": "0f0fffae-6c30-4359-9630-cb36e4947ee2",
+      "source": "4）\t曝气沉砂池砂水分离机等；",
+      "target": "4) Sand-water separators for the aerated grit chamber, etc.;"
+    },
+    {
+      "id": "cbccb9ae-a4bc-4aa9-894c-50e674a9e641",
+      "source": "5）\t粗格栅进水泵房、细格栅沉砂池的各级格栅区域、栅渣压榨及砂水分离区域的整体不锈钢轻钢结构除臭加罩；",
+      "target": "5) Overall stainless-steel light-gauge steel structural deodorization enclosures/covers for the coarse-screen influent pump house; the screening areas at each stage of the fine-screen grit chamber; and the screenings pressing and sand-water separation areas;"
+    },
+    {
+      "id": "cf7ac919-2bcb-4b3f-83c7-0039dc61379a",
+      "source": "6）\t各类阀门：包括全厂各单体中的蝶阀、止回阀、偏心球阀、闸阀等；",
+      "target": "6) Various valves: including butterfly valves, check valves, eccentric ball valves, gate valves, etc. in the various process units throughout the plant;"
+    },
+    {
+      "id": "4925ee41-b29e-440c-9573-4c52073c07f2",
+      "source": "7）\t消防泵房相关设备：包括一体化箱体内消防泵房的相关系统设备；",
+      "target": "7) Fire pump house related equipment: including the relevant system equipment for the fire pump house within the integrated enclosure;"
+    },
+    {
+      "id": "4010dbe5-c23a-4f11-ae08-3a80f7bfe3ec",
+      "source": "及时办理了消防、施工图审核、质量和安全监督、施工许可等各项建设行政管理手续。施工中对各参建单位质量保证体系和质量行为进行了有效监控和协调，按规定主持了施工图会审、特殊施工方案专家评审，第一次工地会议、分部工程质量验收等相关工作，核查并签署了相关质量保证资料。按照规定程序进行了设计变更、施工洽商的编制、审核、会签和实施。工程一直处于受控状态，未发生安全、质量事故，圆满完成建设任务。",
+      "target": "All construction administrative procedures, including fire protection, construction drawing review, quality and safety supervision, and construction permitting, were handled in a timely manner. During construction, effective supervision and coordination were carried out for the quality assurance systems and quality practices of all participating parties. In accordance with requirements, the construction drawing review meetings, expert reviews for special construction schemes, the first site meeting, and sectional work quality acceptances were chaired, and relevant quality assurance documentation was reviewed and signed. Design changes and construction coordination items were prepared, reviewed, jointly signed, and implemented in accordance with the prescribed procedures. The project remained under control throughout, with no safety or quality incidents, and the construction tasks were successfully completed."
+    },
+    {
+      "id": "8a477576-8c93-4b84-b957-08c9cd0d38e4",
+      "source": "工程竣工验收意见：",
+      "target": "Completion Acceptance Comments:"
+    },
+    {
+      "id": "6c96bb20-6602-425b-9ffd-5c6255344dd0",
+      "source": "2025年7月15日，对泰和污水处理厂扩建工程THK2.1标（设备采购及全厂安装调试）进行了竣工验收。验收组通过实地检查以及参建各方提供的相关技术资料的查看，一致认为已经完成合同范围内的工程量，工程质量符合国家相关标准及规范，质保资料基本齐全、未发生安全质量事故，工程质量满足设计要求，验收组同意通过验收。",
+      "target": "On July 15, 2025, completion acceptance was carried out for the Taihe Wastewater Treatment Plant Expansion Project, Package THK2.1 (equipment procurement and plant-wide installation and commissioning). Through on-site inspection and review of the relevant technical documentation provided by all participating parties, the acceptance team unanimously agreed that the quantities of work within the contract scope have been completed; the project quality complies with applicable national standards and specifications; quality assurance documentation is basically complete; no safety or quality incidents occurred; and the project quality meets the design requirements. The acceptance team agreed to pass the acceptance."
+    },
+    {
+      "id": "45d44904-931f-4c29-a3dd-1289d6e0d31f",
+      "source": "工程竣工验收结论：",
+      "target": "Completion Acceptance Conclusion:"
+    }
+  ]
+}
