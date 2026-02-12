@@ -1,0 +1,83 @@
+{
+  "batch_number": 7,
+  "total_batches": 7,
+  "segment_count": 19,
+  "segments": [
+    {
+      "id": "bcde2843-2ade-487b-9191-512fdabcd600",
+      "source": "上海隧道公司"
+    },
+    {
+      "id": "c47750a7-41ec-4f75-a77c-cdfde653ea7e",
+      "source": "中级"
+    },
+    {
+      "id": "6170ca77-6e79-4ca3-95a0-92c7a17de506",
+      "source": "祝建伟"
+    },
+    {
+      "id": "d80b10e5-ce42-4236-8f2e-29186b8da8fb",
+      "source": "上海隧道公司"
+    },
+    {
+      "id": "9cc96668-bcfa-4459-a2d2-027ff982441e",
+      "source": "高级"
+    },
+    {
+      "id": "5163c772-efed-4365-80ed-d433bbdaf2df",
+      "source": "专家"
+    },
+    {
+      "id": "9c70a30e-ca13-449c-ad5b-b63369faef3c",
+      "source": "林子彦"
+    },
+    {
+      "id": "0c4189dd-8c42-4c3e-8179-ac25cc30bec6",
+      "source": "水务建设"
+    },
+    {
+      "id": "662ba99a-4cc5-4e96-8e6a-48d1894fdb45",
+      "source": "高工"
+    },
+    {
+      "id": "ea6649a2-bdfa-4ecb-9bf8-bb2e037c6e71",
+      "source": "李洋"
+    },
+    {
+      "id": "1f3306cc-e268-45a4-952d-19a53dff0d0d",
+      "source": "水务建设"
+    },
+    {
+      "id": "74c274ee-b28f-44e6-a505-719c633b36b0",
+      "source": "刘子敦"
+    },
+    {
+      "id": "ab678a4d-79c6-48e2-8d2a-e10d4ce0d6c1",
+      "source": "水务建设"
+    },
+    {
+      "id": "85aaaac4-ec0e-4a43-8ded-b49eda2c096d",
+      "source": "建设单位项目负责人：刘发辉"
+    },
+    {
+      "id": "f1c9e8bb-47e3-49e3-bc5f-1dfc66ca8b2a",
+      "source": "（公章）"
+    },
+    {
+      "id": "62fc3dd7-c52b-4a52-ba52-86fedcea33c9",
+      "source": "建设单位法定代表人：周骅"
+    },
+    {
+      "id": "aaf88b10-32ee-4b6d-afdc-1dd0444701de",
+      "source": "年\t月\t日"
+    },
+    {
+      "id": "a5773870-45ec-4155-ade4-66b0c581be7c",
+      "source": "注：建设单位对经竣工验收的工程质量全面负责"
+    },
+    {
+      "id": "13d2eb27-aa3b-4225-b3d6-93b3ea166f92",
+      "source": "上海城投水务（集团）有限公司（章）"
+    }
+  ]
+}

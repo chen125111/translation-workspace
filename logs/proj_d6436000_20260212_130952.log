@@ -1,0 +1,29 @@
+  [检测] 文件无扩展名(3fce5ac5-0454-47...)，内容为SDLXLIFF，重命名为 proj_d6436000.sdlxliff
+========================================
+  翻译项目启动 (v4)
+========================================
+  源文件: proj_d6436000.sdlxliff
+  项目:   proj_d6436000
+  方向:   zh-CN -> en-US
+  批次:   每批 20 段
+
+--- 第1步：准备并拆分 ---
+正在提取: /home/cc/translation-workspace/projects/proj_d6436000/source/proj_d6436000.sdlxliff (全部段落)
+共提取 139 个待翻译段落
+拆分为 7 个批次（每批最多 20 段）
+
+  批次 1/7: 20 个段落 -> batch_001.json
+  批次 2/7: 20 个段落 -> batch_002.json
+  批次 3/7: 20 个段落 -> batch_003.json
+  批次 4/7: 20 个段落 -> batch_004.json
+  批次 5/7: 20 个段落 -> batch_005.json
+  批次 6/7: 20 个段落 -> batch_006.json
+  批次 7/7: 19 个段落 -> batch_007.json
+
+清单文件: /home/cc/translation-workspace/projects/proj_d6436000/batches/manifest.json
+
+✅ 完成！共 139 段，7 批
+   输出目录: /home/cc/translation-workspace/projects/proj_d6436000/batches/
+  => 139 段, 7 批次, 7 并发 (auto)
+
+--- 第2步：推送到 GitHub ---
