@@ -1,0 +1,105 @@
+{
+  "batch_number": 6,
+  "translations": [
+    {
+      "id": "d5a5351c-85fb-47e1-9b16-466063491f39",
+      "source": "陈考成",
+      "target": "Chen Kaocheng"
+    },
+    {
+      "id": "e005e4e6-ffb8-4b0b-85f3-94dc66b1c641",
+      "source": "上海市城建队",
+      "target": "Shanghai Municipal Urban Construction Team"
+    },
+    {
+      "id": "21b7bdfd-a211-4146-954d-db2c5893ba28",
+      "source": "高工",
+      "target": "Senior Engineer"
+    },
+    {
+      "id": "12feb7f0-db39-4a3f-8a7c-2402541920ec",
+      "source": "布光华",
+      "target": "Bu Guanghua"
+    },
+    {
+      "id": "dffaea0d-2a04-4fd9-a27b-62b52cdcab60",
+      "source": "上海房实理咨询总公司",
+      "target": "Shanghai Fangshili Consulting General Corporation"
+    },
+    {
+      "id": "00023822-36ce-4c02-aeff-9927e3b3dd0b",
+      "source": "教高",
+      "target": "Professor-level Senior Engineer"
+    },
+    {
+      "id": "a89ced30-2f3d-42f3-827a-ff09c262edc3",
+      "source": "专家",
+      "target": "Expert"
+    },
+    {
+      "id": "2bc0112c-55a5-485c-b757-2efca0ee6c85",
+      "source": "费希伟",
+      "target": "Fei Xiwei"
+    },
+    {
+      "id": "e160f875-358f-4dcd-8d16-981c6fad01fc",
+      "source": "北市设计研究医院",
+      "target": "Beishi Design and Research Institute Hospital"
+    },
+    {
+      "id": "81911ed0-d6f6-4e62-b648-56a0973915b6",
+      "source": "高工",
+      "target": "Senior Engineer"
+    },
+    {
+      "id": "8420cfbf-f610-4b2e-a75c-a9e0a3daa327",
+      "source": "牛少洗",
+      "target": "Niu Shaoxi"
+    },
+    {
+      "id": "fa1368ec-4caf-4ae0-8c35-9a8610a825ba",
+      "source": "北海曲科智属系统",
+      "target": "Beihai Quke Zhishu System"
+    },
+    {
+      "id": "04953e15-7e9e-40eb-a08d-22d5850e73e8",
+      "source": "高工",
+      "target": "Senior Engineer"
+    },
+    {
+      "id": "e3d1f5d2-5b82-4371-ab90-35527ddb1f55",
+      "source": "陈格我",
+      "target": "Chen Gewo"
+    },
+    {
+      "id": "f6d0ce1a-c714-4b7a-95f7-de8bea81d41d",
+      "source": "上海--",
+      "target": "Shanghai--"
+    },
+    {
+      "id": "178ff03b-2049-4f5c-9697-c1c294b13e03",
+      "source": "中级",
+      "target": "Intermediate"
+    },
+    {
+      "id": "cd427988-3fc3-4dc7-89aa-05d51a90600b",
+      "source": "顾华坤",
+      "target": "Gu Huakun"
+    },
+    {
+      "id": "7107324c-37b9-4c7e-9f92-37686590fc0d",
+      "source": "上海隧道公司",
+      "target": "Shanghai Tunnel Company"
+    },
+    {
+      "id": "376e9a72-ed6a-4217-b7b6-1b40cf9ed9e5",
+      "source": "中级",
+      "target": "Intermediate"
+    },
+    {
+      "id": "73fe6f66-4dc4-497c-b72b-a6d845db1a9c",
+      "source": "顾华坤",
+      "target": "Gu Huakun"
+    }
+  ]
+}
