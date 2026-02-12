@@ -1,0 +1,755 @@
+{
+  "batch_number": 1,
+  "translations": [
+    {
+      "id": "add40665-fab0-4c8a-9493-24847abfa2bf",
+      "source": "of",
+      "target": "of"
+    },
+    {
+      "id": "f7f4abc8-c15e-4e9c-9584-07d1c6e4e9b7",
+      "source": "5.1.5\t混凝土工程",
+      "target": "5.1.5\tConcrete Works"
+    },
+    {
+      "id": "a64e6104-e354-4941-8d38-97ee29eaa202",
+      "source": "1)混凝土工程施工工艺流程",
+      "target": "1) Construction Process Flow for Concrete Works"
+    },
+    {
+      "id": "bd0723ca-f087-4b46-a81e-7bcd48d67f2a",
+      "source": "施工临时跑道架设→基层的清洁和浇水→商品混凝土运输→楼面及屋面结构混凝土浇筑→混凝土养护",
+      "target": "Erection of a temporary construction runway \u2192 Cleaning and pre-wetting of the substrate \u2192 Transport of ready-mixed concrete \u2192 Placement of concrete for floor and roof structures \u2192 Concrete curing"
+    },
+    {
+      "id": "377ca75e-4855-4a3f-8308-d5fbff3eec40",
+      "source": "2)施工临时跑道架设→基层的清洁和浇水→商品混凝土运输→楼面及屋面结构混凝土浇筑→混凝土养护",
+      "target": "2) Erection of a temporary construction runway \u2192 Cleaning and pre-wetting of the substrate \u2192 Transport of ready-mixed concrete \u2192 Placement of concrete for floor and roof structures \u2192 Concrete curing"
+    },
+    {
+      "id": "226b9906-6050-426f-bf19-714b8064d3f9",
+      "source": "3)浇筑前的检查工作",
+      "target": "3) Pre-pour Inspection"
+    },
+    {
+      "id": "3bc82478-7521-4170-85ab-35245d17e98f",
+      "source": "①检查模板的标高、位置和构件的截面尺寸是否符合设计要求。",
+      "target": "① Check whether the formwork elevation, position, and member cross-sectional dimensions comply with the design requirements."
+    },
+    {
+      "id": "706ced01-9a3a-4210-9f46-9d4f9ce529a3",
+      "source": "②检查模板支撑是否稳固，模板固定是否牢固。",
+      "target": "② Check whether the formwork supports are stable and whether the formwork is securely fixed."
+    },
+    {
+      "id": "8459cb23-4ead-4379-a33e-233c644a13b8",
+      "source": "③检查模板的紧密性。模板的缝隙应嵌紧。",
+      "target": "③ Check the tightness of the formwork. Formwork joints and gaps shall be tightly sealed."
+    },
+    {
+      "id": "5cac9a47-a3bc-4cab-888b-62b431dfa219",
+      "source": "④检查钢筋和预埋件的规格、数量、安装位置以及构件的接头连接焊缝是否符合设计和施工规范的要求。",
+      "target": "④ Check whether the specifications, quantities, and installation positions of reinforcement and embedded parts, as well as the welds at member splice joints, comply with the design and applicable construction codes."
+    },
+    {
+      "id": "748d05b4-f0b5-47d2-9a07-99989bb725d0",
+      "source": "⑤检查水、电、暖气等设备管道的位置和数量是否准确。",
+      "target": "⑤ Check whether the locations and quantities of pipelines for water supply, electrical, heating, etc. are accurate."
+    },
+    {
+      "id": "5388a367-52f5-4ea8-858e-032426deb1bb",
+      "source": "⑥模板内钢筋上的垃圾、木屑、刨花、锯末、污物、油污等应清理干净。",
+      "target": "⑥ Remove all rubbish, wood chips, shavings, sawdust, dirt, and oil stains from the reinforcement inside the formwork."
+    },
+    {
+      "id": "ef4116ad-c069-4f03-bd7c-65140b4193eb",
+      "source": "⑦将残留在模板内的杂物清理干净，并提前对模板进行浇水",
+      "target": "⑦ Clean out any debris remaining in the formwork, and pre-wet the formwork in advance."
+    },
+    {
+      "id": "0f0d9813-07a7-4140-88a8-69c9b9fe340f",
+      "source": "⑧做好混凝土配合比和现场计量设备",
+      "target": "⑧ Confirm the concrete mix proportions and ensure on-site measuring equipment is in place."
+    },
+    {
+      "id": "46d008d5-5760-44b1-bfea-1c541775540f",
+      "source": "4)混凝土墙板浇筑",
+      "target": "4) Concrete Wall Panel Placement"
+    },
+    {
+      "id": "13b0d7a3-d1ce-4d2c-86db-e06b0a367165",
+      "source": "a为防止混凝土墙板模板变形，同时在初凝后4小时内完成上下混凝土搭接，不留水平施工缝，一次浇筑高度一般控制在1500mm左右，应沿长度方向均匀浇筑，严禁一次到顶。",
+      "target": "a To prevent deformation of the concrete wall-panel formwork and to complete the lap between upper and lower concrete within 4 hours after initial setting (without leaving any horizontal construction joint), the single pour height shall generally be controlled at about 1500 mm. Concrete shall be placed uniformly along the length; pouring to the full height in one lift is strictly prohibited."
+    },
+    {
+      "id": "87c28b56-e982-457f-9f4c-dba122029c83",
+      "source": "浇筑顺序：分段定点，倾斜部位倾斜分层浇筑，逐级推进，一次到位。",
+      "target": "Placement sequence: segmental fixed-point placement; for inclined sections, place in inclined layers; advance step by step to complete in one operation."
+    },
+    {
+      "id": "f9bee3d7-bb18-4153-ba15-e2be9e791403",
+      "source": "b每台泵在操作面上配备2-4个插入式振动器。根据泵送混凝土自然流入坡面的条件，在坡面末端布置两台振动器。第一种布置在混凝土出料点，解决上部混凝土的夯实问题；二是设置在混凝土坡脚，保证下部混凝土密实。随混凝土浇筑工作面推进时，振捣器应跟上，振捣时应严格控制浇筑时间、移动距离和插入深度。严禁用振动棒振捣钢筋，严禁用模板振捣混凝土。混凝土应采用反振法振捣。",
+      "target": "b Each pump shall be equipped with 2\u20134 internal vibrators at the working face. Depending on the condition that pumped concrete flows naturally onto the sloped surface, two vibrators shall be arranged at the end of the slope: one at the concrete discharge point to compact the upper concrete, and the other at the toe of the concrete slope to ensure compaction of the lower concrete. As the placing front advances, the vibrators shall follow accordingly. During vibration, strictly control the placing time, movement distance, and insertion depth. It is strictly prohibited to vibrate reinforcement with the vibrator, and it is strictly prohibited to use the formwork to vibrate the concrete. Concrete shall be compacted using the re-vibration method."
+    },
+    {
+      "id": "45dbd965-14ff-45b5-8302-f8689b654d9f",
+      "source": "在浇筑过程中，我们应经常注意观察模板、钢筋、预埋件、柱插筋等是否有位移或变形。如果发现问题，应及时处理。",
+      "target": "During placement, continuously observe whether the formwork, reinforcement, embedded parts, column starter bars, etc. have any displacement or deformation. If any issues are found, address them promptly."
+    },
+    {
+      "id": "208c6ab3-f94c-4750-b07b-2f942938bdb4",
+      "source": "5)框架柱混凝土浇筑",
+      "target": "5) Concrete Placement for Frame Columns"
+    },
+    {
+      "id": "94c505b8-57a5-49eb-8f7f-c1840f59a922",
+      "source": "a浇筑前，应先对柱底进行浇水，并填充厚度为5-10厘米的1:2水泥砂浆。柱混凝土应分层浇筑。插入振捣时，每层厚度不应大于50cm，振捣器不应接触钢筋。",
+      "target": "a Before placement, pre-wet the column base and place a 5\u201310 cm thick layer of 1:2 cement mortar. Column concrete shall be placed in layers. When using internal vibration, the thickness of each layer shall not exceed 50 cm, and the vibrator shall not contact the reinforcement."
+    },
+    {
+      "id": "a0202733-3164-40fa-92de-872198615cd6",
+      "source": "b混凝土浇筑完成后，应将柱钢筋布置到位，并将梁内的钢筋和混凝土清理干净。",
+      "target": "b After concreting is completed, position the column reinforcement properly, and clean the beam reinforcement and remove any concrete residue."
+    },
+    {
+      "id": "90e87acc-a62e-407a-b53b-acf654196003",
+      "source": "6）楼板结构浇筑施工方法",
+      "target": "6) Construction Method for Slab Concrete Placement"
+    },
+    {
+      "id": "50ffd777-b598-47bd-8a79-428b8e4cab4d",
+      "source": "a混凝土浇筑时，应提前设置施工通道，确保混凝土浇筑的安全。",
+      "target": "a Prior to concrete placement, set up access walkways in advance to ensure safe concrete placement."
+    },
+    {
+      "id": "275a2229-98b3-4de1-ba83-27aa9a42324d",
+      "source": "b梁板混凝土同时浇筑时，采用“砂浆打入法”从一端开始浇筑。即根据梁的高度，将梁的混凝土分层浇筑成阶梯状，到达板底时，梁和板的混凝土同时浇筑，随着阶梯状的延伸，继续浇筑梁和板混凝土。",
+      "target": "b When concreting beams and slabs simultaneously, adopt the mortar insertion method and start from one end. That is, according to the beam depth, place the beam concrete in layers to form steps; when reaching the slab soffit, place beam and slab concrete simultaneously. As the stepped front extends, continue placing the beam and slab concrete."
+    },
+    {
+      "id": "784f81ef-6fe3-4c66-8fd5-6b803e2b8bf9",
+      "source": "c现浇板的铺设厚度应略高于板的厚度，并应使用板振捣器沿垂直浇筑方向来回振动。在振动过程中，应随时检查表面标高和表面平整度。振捣后，应使用长木抹子抹平。",
+      "target": "c The placed thickness of cast-in-place slabs shall be slightly greater than the slab thickness, and a plate vibrator shall be used to vibrate back and forth perpendicular to the placing direction. During vibration, check the surface elevation and flatness at all times. After vibration, level with a long wooden float."
+    },
+    {
+      "id": "084b9e90-4e0a-442c-9bfa-fcdfed784f41",
+      "source": "7)混凝土配及供应注意事项",
+      "target": "7) Notes on Concrete Batching and Supply"
+    },
+    {
+      "id": "ce294bfd-800b-4db6-9773-39fbc0e6e3e7",
+      "source": "a现场应成立临时指挥小组，加强车辆的调整和平衡，减少混凝土运输时间和停车场等待时间。",
+      "target": "a A temporary on-site coordination team shall be established to optimize vehicle dispatching and balance, reducing concrete transport time and waiting time in the staging area."
+    },
+    {
+      "id": "fe401f20-6422-4607-88a8-6d7729996653",
+      "source": "b在各类作业场所，应按指定区域和地点操作和堆放机具、材料，并规划和安排车辆行驶路线，避免混乱，确保安全顺利行驶。",
+      "target": "b At all work areas, operate and stack tools/equipment and materials in designated zones and locations, and plan and arrange vehicle routes to avoid disorder and ensure safe and smooth traffic."
+    },
+    {
+      "id": "6193db20-43ae-49a9-b7dd-2129a303fc90",
+      "source": "c配备足够的照明、施工机具和维护人员，确保所有施工机具的正常运行。",
+      "target": "c Provide sufficient lighting, construction equipment, and maintenance personnel to ensure normal operation of all construction equipment."
+    },
+    {
+      "id": "8bd4c57e-b894-4cc7-847c-fc764c59548f",
+      "source": "d混凝土施工前召开专项协调会，制定专项施工技术措施和组织方案",
+      "target": "d Hold a dedicated coordination meeting before concrete works to develop specific technical measures and an organizational plan."
+    },
+    {
+      "id": "59b8f910-1911-4d68-bff0-f43b2d69ae32",
+      "source": "e严格控制混凝土坍落度，从搅拌车上卸入泵车料斗前，应随机检查混凝土坍落度。如坍落度有偏差，应及时联系搅拌站进行调整。搅拌混凝土时，严格按照配合比进行，并根据砂石含水率的不同随时进行调整，以保证混凝土本身的质量。",
+      "target": "e Strictly control concrete slump. Before discharging from the mixer truck into the pump hopper, randomly check the concrete slump. If any deviation is found, promptly contact the batching plant for adjustment. When mixing concrete, strictly follow the mix proportions and adjust as needed according to variations in the moisture content of sand and aggregates, so as to ensure the quality of the concrete itself."
+    },
+    {
+      "id": "9fac0082-85a2-4479-95ff-665f690e2766",
+      "source": "5.1.6\t砌体工程",
+      "target": "5.1.6\tMasonry Works"
+    },
+    {
+      "id": "d53637c9-81c2-47d4-b3d6-171b7dd9e2ab",
+      "source": "1)工艺流程",
+      "target": "1) Process Flow"
+    },
+    {
+      "id": "4059548b-fb0a-42be-9077-4a907f386cb1",
+      "source": "施工准备→墙壁放线→砂浆的制备→放置三层实心砖→多孔砖的排列→铺设砂浆→放置多孔砖→校正→垂直接缝灌浆砂浆→接合",
+      "target": "Construction preparation \u2192 Wall setting-out (line marking) \u2192 Mortar preparation \u2192 Lay three courses of solid bricks \u2192 Arrange perforated bricks \u2192 Spread mortar \u2192 Lay perforated bricks \u2192 Alignment/correction \u2192 Grout vertical joints with mortar \u2192 Bonding/finishing"
+    },
+    {
+      "id": "db118859-f157-4dff-925d-07f22b3fd53a",
+      "source": "2)施工准备",
+      "target": "2) Construction Preparation"
+    },
+    {
+      "id": "bbfb51eb-b56c-44bc-acaf-e882d389f286",
+      "source": "a在建墙之前，地板应该清洗干净并浇水。",
+      "target": "a Before wall construction, the floor/slab shall be cleaned and pre-wetted."
+    },
+    {
+      "id": "e389ac18-55b9-4d3e-b49b-45e30e20e900",
+      "source": "b用经纬仪重新测量各外角的轴线垂直度。",
+      "target": "b Re-measure the verticality of the axis lines at each external corner using a theodolite."
+    },
+    {
+      "id": "25a250d6-13f7-40d6-a11c-91bfc40aa4c8",
+      "source": "c根据复测后的轴线尺寸，弹出中心线、门窗开启线，经技术部门审核后办理预检手续。",
+      "target": "c Based on the rechecked axis dimensions, snap the centerlines and door/window opening lines; after review by the technical department, complete the pre-inspection procedures."
+    },
+    {
+      "id": "b0420480-26c9-40a3-a9ad-c11410886fba",
+      "source": "d根据各楼层的标高尺寸，搭设层柱，并在层柱上注明门窗洞口、木砖、拉结筋、过梁的标高尺寸。层柱之间的距离应控制在10-15m。每个角落都需要楼层杆。层柱应垂直放置，并牢固地放置在同一标高上。复验后，应做好复验记录。",
+      "target": "d Based on the elevation dimensions of each floor, set up story poles, and mark on them the elevation dimensions of door/window openings, wood bricks, wall ties, and lintels. The spacing between story poles shall be controlled at 10\u201315 m. A story pole is required at each corner. Story poles shall be set plumb and secured at the same elevation. After rechecking, record the reinspection results."
+    },
+    {
+      "id": "dfe6dcb8-6c87-4f92-8a3c-fe7affbdcbff",
+      "source": "e根据底部第一块砖的标高，全面检查。水平灰缝厚度大于20mm时，应采用细石混凝土找平。",
+      "target": "e Conduct an overall check based on the elevation of the first bottom brick. If the horizontal mortar joint thickness exceeds 20 mm, level with fine aggregate concrete."
+    },
+    {
+      "id": "27d72ba8-3351-46ad-bcfd-e1cb7ab135dd",
+      "source": "f要建造多孔砖墙，首先应在地面或地板上放置三层实心砖。此外，当多孔砖铺设到梁底时，最后一层应使用实心砖。",
+      "target": "f For perforated brick walls, first lay three courses of solid bricks on the ground or floor. In addition, when perforated brickwork reaches the underside of a beam, the last course shall be solid bricks."
+    },
+    {
+      "id": "4b91c76c-286d-4cbd-a984-2fd347fe1fa7",
+      "source": "g在布置多孔砖时，上层和下层应交替接缝。搭接长度一般为多孔砖的1/4，但不小于60mm。不得使用角度损伤严重的多孔砖。",
+      "target": "g When laying perforated bricks, stagger joints between upper and lower courses. The lap length is generally 1/4 of the brick length, but not less than 60 mm. Do not use perforated bricks with severely damaged corners."
+    },
+    {
+      "id": "7496d94c-13d8-4b7d-a1fb-92996342bf1f",
+      "source": "h水平灰缝控制在8-12mm左右，用砂浆填满，保证平直、平整。垂直接缝应用砂浆填充",
+      "target": "h Control horizontal joints to about 8\u201312 mm and fully fill with mortar to ensure straightness and evenness. Vertical joints shall be filled with mortar."
+    },
+    {
+      "id": "295da923-4d06-4b0d-8603-664f39be69ee",
+      "source": "i拉线砌筑时，应在测量前立即进行浇筑，采用挂线、靠尺的方法，保证墙体的垂直度。",
+      "target": "i When masonry is laid using string lines, set up the line immediately before laying; use string lines and straightedges to ensure wall verticality."
+    },
+    {
+      "id": "ecdb8ea5-61ab-4742-87c7-719e9e6e8698",
+      "source": "3)质量要求",
+      "target": "3) Quality Requirements"
+    },
+    {
+      "id": "9650055c-0524-4187-9d9b-177cb6949d79",
+      "source": "a多孔砖的品种、规格、强度应符合设计要求。此外，还应提供出厂合格证和复验报告",
+      "target": "a The type, specifications, and strength of perforated bricks shall meet the design requirements. Factory certificates and reinspection reports shall also be provided."
+    },
+    {
+      "id": "1f6f8aba-d517-42ec-ae26-bd85e428c53e",
+      "source": "b砂浆的品种必须满足设计要求，强度必须符合设计要求和检验评定标准。",
+      "target": "b The mortar type shall meet the design requirements, and its strength shall comply with the design requirements and the inspection and evaluation standards."
+    },
+    {
+      "id": "b7c29c7f-4005-4321-b559-9eb67d4b8caf",
+      "source": "c错缝墙砌体必须采用密实砂浆砌筑。接头必须是平直。",
+      "target": "c Staggered-joint masonry shall be laid with full mortar. Joints shall be straight."
+    },
+    {
+      "id": "e4a4e704-9039-4075-a36e-0bb1e50f3da5",
+      "source": "5.1.7\t抹灰工程",
+      "target": "5.1.7\tPlastering Works"
+    },
+    {
+      "id": "1cba0be3-8ae2-4a70-9b21-435e87892c6c",
+      "source": "a抹灰前，应仔细清除基层表面的灰尘、污垢和油污。",
+      "target": "a Before plastering, carefully remove dust, dirt, and oil stains from the base surface."
+    },
+    {
+      "id": "5cd11bf7-313f-47da-ba3f-b6721fb834e7",
+      "source": "b抹灰工程开工前，施工单位应办理结构验收手续。",
+      "target": "b Before commencing plastering works, the contractor shall complete the structural acceptance procedures."
+    },
+    {
+      "id": "744f3dc3-ccac-482d-a8b6-817e440fcc52",
+      "source": "c应检查墙壁的平整度。坑太多应凿除或用1:3水泥砂浆找平；墙上的脚手架洞应该修补并浇水。",
+      "target": "c Check wall flatness. Excessive depressions shall be chiseled out or leveled with 1:3 cement mortar; scaffold holes in the wall shall be patched and pre-wetted."
+    },
+    {
+      "id": "39f4878d-d4c9-4e63-acc7-965f32260ea1",
+      "source": "d管道通过的墙或楼板孔洞应密封，不得渗水。",
+      "target": "d Openings in walls or slabs where pipelines pass through shall be sealed to prevent water leakage."
+    },
+    {
+      "id": "bdae1dc0-5d49-49b0-ac7b-4a3324448442",
+      "source": "e外墙的窗台、过梁、雨棚、压顶等，应在顶部做流水坡，在底部做滴水或滴水槽。食品柜的深度和宽度应大于10mm，排列整齐、平整。",
+      "target": "e For exterior walls, elements such as window sills, lintels, canopies, and parapet copings shall be formed with a water-shedding slope at the top and a drip edge or drip groove at the bottom. The drip groove depth and width shall be greater than 10 mm, and it shall be neat and even."
+    },
+    {
+      "id": "ffa739db-c3d0-4eae-a7d3-ea553c030bce",
+      "source": "f水泥砂浆和水泥混合砂浆的抹灰层应在前一层抹灰层设置好后进行。",
+      "target": "f Plaster layers of cement mortar and cement mixed mortar shall be applied only after the previous plaster layer has been properly set."
+    },
+    {
+      "id": "1057df56-7c13-45c0-bda8-56b315e78c63",
+      "source": "g室内墙面、柱面、门洞均应设置1:2水泥砂浆护角，护角高度不小于2m，每侧宽度不小于50mm。",
+      "target": "g Provide 1:2 cement mortar corner guards at interior wall corners, columns, and door openings. The corner guard height shall be no less than 2 m, and the width on each side shall be no less than 50 mm."
+    },
+    {
+      "id": "a897fec5-586a-4642-ab77-bfc93f9b3643",
+      "source": "5.1.8\t门窗",
+      "target": "5.1.8\tDoors and Windows"
+    },
+    {
+      "id": "e919df63-6d76-4a3d-ab4c-f313ef1dee52",
+      "source": "a门窗应垂直堆放，垂直坡度不大于20度，有防雨措施。",
+      "target": "a Doors and windows shall be stored vertically with an inclination of no more than 20\u00b0, and protected against rain."
+    },
+    {
+      "id": "c483289e-499c-488c-b6d4-957df800daf5",
+      "source": "b门窗安装前，应根据图纸要求和设计规定，检查门窗及所附五金件的型号、规格、数量是否正确",
+      "target": "b Before installing doors and windows, check\u2014per drawings and design requirements\u2014whether the models, specifications, and quantities of the doors/windows and their hardware accessories are correct."
+    },
+    {
+      "id": "de705e11-3330-4eaa-8849-c5d992511974",
+      "source": "c门窗必须水平和垂直安装，高度和深度一致。安装后，开口叶片闭合后，间隙不大于1mm。此外，车门开关灵活，无卡涩或回弹现象",
+      "target": "c Doors and windows shall be installed plumb and level, with consistent elevation and embedment depth. After installation, the gap after the opening leaf is closed shall be no greater than 1 mm. In addition, the leaf shall open and close smoothly, without binding or rebound."
+    },
+    {
+      "id": "6ab5606d-7cb4-4cac-85ee-cd81f638db24",
+      "source": "d密封条安装后应留有膨胀余量。一般情况下，板条应比门窗装配侧长20-30mm。转弯处应断开倾斜面，并用粘合剂牢固粘合，以避免产生收缩缝。",
+      "target": "d After installation, sealing strips shall allow for expansion. Generally, the strip shall be 20\u201330 mm longer than the assembled side of the door/window. At corners, the beveled faces shall be cut off and firmly bonded with adhesive to avoid shrinkage joints."
+    },
+    {
+      "id": "388968e2-cd51-4fa7-a881-743eff93423a",
+      "source": "e、门窗框安装固定采用锚铁支架。可以预埋尾部铁支架，也可以用锤钻钻10mm孔预埋连接膨胀螺栓。除不锈钢外，连接铁件、固定件等均应进行防腐处理。",
+      "target": "e Door/window frames shall be fixed with anchor-iron brackets. Tail-end brackets may be pre-embedded, or 10 mm holes may be drilled with a hammer drill to install expansion bolts for connection. Except for stainless steel, all connecting iron parts and fixings shall be corrosion-protected."
+    },
+    {
+      "id": "18cf35e1-9d43-480c-b36b-c8009ced56b8",
+      "source": "5.1.9\t涂层施工",
+      "target": "5.1.9\tCoating Application"
+    },
+    {
+      "id": "23ff695b-a665-4fd1-9bf8-c036af056253",
+      "source": "a清理墙、柱表面剥落、松散的材料，铲灰，擦拭墙、柱面。",
+      "target": "a Remove peeling and loose materials from wall and column surfaces, scrape off powdery layers, and wipe the wall/column surfaces clean."
+    },
+    {
+      "id": "5640ff65-deba-4033-a232-30426309bf69",
+      "source": "b第一遍满刮腻子打磨：室内大面积涂料表面填补缝隙后，用镶嵌工具满刮乳胶腻子。对所有微砂眼和收缩缝进行全面刮腻子，做到密实、平整、线角整齐。同时，涂层应沿墙横向连续刮涂，并尽可能薄，不得漏刮。接缝处不得留有杂物，注意不要污染门窗等表面",
+      "target": "b First full coat of putty and sanding: After filling joints on large indoor coating surfaces, use a putty tool to fully apply latex putty. Apply putty comprehensively to all pinholes and shrinkage cracks to achieve dense filling, flatness, and neat lines and corners. Meanwhile, apply continuously along the wall in the horizontal direction and as thin as possible, with no missed areas. No debris shall remain at joints; take care not to contaminate surfaces such as doors and windows."
+    },
+    {
+      "id": "6d546015-fe5e-4740-8262-2457e228cb13",
+      "source": "c第二遍满刮腻子并打磨：第二遍全刮腻子的方法与第一遍相同，但刮腻子的方向应与第一遍相互垂直，即沿墙面垂直刮腻子，再进行满刮腻子，并打磨墙面，以保证平整、光滑。",
+      "target": "c Second full coat of putty and sanding: The method is the same as the first coat, but the application direction shall be perpendicular to the first, i.e., apply vertically along the wall. Then fully apply and sand the wall surface to ensure flatness and smoothness."
+    },
+    {
+      "id": "10a580ef-3a88-418e-a647-139aea6859c5",
+      "source": "d第一道涂层：在第一道涂层之前，必须清洁基层表面，并擦拭浮尘。使用宽刷子进行涂层是合适的。涂刷顺序一般是从上到下、从左到右、从边线到转角、从小面到大面。内角不得有残留涂层，外角不得有包边。如果墙面不能一次从上到下涂刷，应协同向下涂刷多个层次，避免接缝与涂刷重叠。每次应在独立表面上涂覆同一批涂层。",
+      "target": "d First coat: Before applying the first coat, the base surface must be cleaned and loose dust wiped off. Use of a wide brush is appropriate. The brushing sequence is generally top to bottom, left to right, from edges to corners, and from small areas to large areas. No residual coating is allowed in internal corners, and no edge build-up is allowed at external corners. If the wall cannot be brushed from top to bottom in one pass, coordinate multiple levels brushing downward to avoid overlap of joints and brush marks. Each time, apply the same batch of coating to an individual continuous surface."
+    },
+    {
+      "id": "bea0e1a3-17da-4068-8127-b0da6dbbebe4",
+      "source": "5.2\t钢结构",
+      "target": "5.2\tSteel Structure"
+    },
+    {
+      "id": "c2dff095-96df-4a29-89e5-d5bdf4eaa7f1",
+      "source": "5.2.1\t钢结构制作",
+      "target": "5.2.1\tSteel Structure Fabrication"
+    },
+    {
+      "id": "e1634673-3e16-47c8-958a-2a4070673bf8",
+      "source": "钢结构由业主提供，运至施工现场指定位置，进场后需进行验收，检查构件几何尺寸、焊缝质量、防腐涂层等，验收合格后方可使用。",
+      "target": "Steel structures are supplied by the Owner and transported to the designated location at the construction site. After arrival, acceptance inspection shall be performed, including checks on member geometric dimensions, weld quality, anti-corrosion coating, etc. Only after passing acceptance may they be used."
+    },
+    {
+      "id": "c8b1c1e9-fce1-41ab-9620-4d030078a874",
+      "source": "5.2.2\t钢结构安装",
+      "target": "5.2.2\tSteel Structure Erection"
+    },
+    {
+      "id": "0927367a-a289-4a65-933f-520ecf32e367",
+      "source": "1)基础复测",
+      "target": "1) Foundation Re-survey"
+    },
+    {
+      "id": "bfb46d54-9399-4082-b552-586c83d0e576",
+      "source": "基础资料一次性移交。控制点、控制线、控制基础的位置必须清晰、完整，交接资料必须符合要求。",
+      "target": "Foundation data shall be handed over in a single package. The control points, control lines, and foundation control positions shall be clear and complete, and the handover documents shall meet the requirements."
+    },
+    {
+      "id": "384f4baf-00f8-40bb-9b21-3cb736b961c0",
+      "source": "重新检查构件的几何尺寸和长度，将轴线和标高位置放置在适当的位置，并做出明显的标记，为安装施工做好准备。",
+      "target": "Recheck the geometric dimensions and lengths of members; lay out the axis lines and elevation reference positions at appropriate locations and make clear markings to prepare for erection."
+    },
+    {
+      "id": "d9607e5d-8ab0-4922-a2ac-358cc4742620",
+      "source": "2)安装前的准备工作",
+      "target": "2) Pre-erection Preparation"
+    },
+    {
+      "id": "66ef029d-1260-4509-95b5-90e6680c7fef",
+      "source": "a钢结构出厂验收：根据设计文件，所有构件均按相关标准进行验收。",
+      "target": "a Factory acceptance of steel structures: according to design documents, all members shall be accepted in accordance with relevant standards."
+    },
+    {
+      "id": "c88f6f13-cb12-46c1-9161-1d178e23e37c",
+      "source": "b总承包方和发包方代表应指定专人负责构件验收。",
+      "target": "b The general contractor and the employer's representative shall designate dedicated personnel responsible for member acceptance."
+    },
+    {
+      "id": "7b035d14-7d3a-4d8b-ab0c-78bc7ad917f6",
+      "source": "c每个部件都有合格的部件出厂证书",
+      "target": "c Each member shall have a qualified ex-factory certificate."
+    },
+    {
+      "id": "db08502d-6a15-426e-af90-068d1fbd5077",
+      "source": "d所有部件均附有材料合格证或材料复验报告。",
+      "target": "d All members shall be accompanied by material certificates of compliance or material reinspection reports."
+    },
+    {
+      "id": "e4bac637-4175-413b-bd3c-50ea8905de53",
+      "source": "e所有部件应正确、清晰地编号。",
+      "target": "e All members shall be correctly and clearly numbered."
+    },
+    {
+      "id": "e8f87e2b-219c-42b9-b968-371395e3d028",
+      "source": "3)钢支架吊装",
+      "target": "3) Lifting of Steel Support Frames"
+    },
+    {
+      "id": "a282d287-4832-4a5b-982f-5a559cc535f3",
+      "source": "钢支架采用单台起重机吊装。为保证钢支架的顺利吊装，钢支架吊装前，应将临时脚手架和爬梯固定在地面上，并画出中心标高的三角形标记，挂上固定的缆索。将钢支架吊装到基础上，将钢支架中心与基础中心对齐，移动吊钩，用缆索和垫铁调整钢支架的垂直度，用千斤顶校正钢支架的水平偏差，拧紧地脚螺栓（见下图）。",
+      "target": "The steel support frame shall be lifted using a single crane. To ensure smooth lifting, before lifting the steel support frame, fix the temporary scaffolding and ladders on the ground, mark a triangular reference at the center elevation, and attach fixed guy ropes. Lift the steel support frame onto the foundation; align the center of the steel support frame with the foundation center; adjust the hook position; use the guy ropes and shims to adjust verticality; use a jack to correct level deviation; and tighten the anchor bolts (see figure below)."
+    },
+    {
+      "id": "5d5424e4-ac8b-4801-b298-816ad3dbd2fd",
+      "source": "用千斤顶校正钢支架的水平偏差",
+      "target": "Correct the level deviation of the steel support frame using a jack."
+    },
+    {
+      "id": "905c747a-0e43-4e86-8c05-ec2fb807ffe6",
+      "source": "上部结构安装完成后，通过二次灌浆固定钢支架底部。",
+      "target": "After the superstructure installation is completed, fix the base of the steel support frame by secondary grouting."
+    },
+    {
+      "id": "727b6f81-0809-47ad-84ba-746d4406d5f5",
+      "source": "4)皮带通廊吊装",
+      "target": "4) Lifting of Belt Conveyor Gallery"
+    },
+    {
+      "id": "1e906158-a7fa-4bab-851c-a9d55a60a996",
+      "source": "a皮带通廊运输到现场后，吊装前应进行质量审查，检查有无运输引起的扭曲和下弯，有无装卸车引起的边缘波浪形弯曲，有无侧弯和下弯。以上情况均应在地面上进行处理，经检查合格后方可进行吊装。",
+      "target": "a After the belt conveyor gallery is transported to site, conduct a quality review before lifting. Check for twisting and sagging caused by transportation, edge wavy bending caused by loading/unloading, and any lateral bending and sagging. Any such issues shall be corrected on the ground. Lifting may proceed only after passing inspection."
+    },
+    {
+      "id": "d6c4bfd2-cede-474a-a54e-43b1d054f770",
+      "source": "b最初对皮带通廊进行校准，然后临时固定以进行定位。皮带通廊的校正包括三个方面，即平面轴线、高程和垂直度。",
+      "target": "b First align the belt conveyor gallery, then temporarily fix it for positioning. Alignment includes three aspects: plan axis, elevation, and verticality."
+    },
+    {
+      "id": "5a87c9b5-114b-4abe-a948-389bec081e22",
+      "source": "c皮带通廊中心轴线的校正以钢支架的轴线为基础，确定皮带通廊的位置，同时检查钢支架的相对跨度。皮带通廊吊装时，钢支架要固定稳定。用水准仪检查皮带通廊的标高，以皮带通廊两端的标高为标准。在皮带通廊中间检查皮带通廊的垂直度采用挂线法对钢廊的垂直度进行检查和控制。皮带通廊必须在确认符合质量标准后才能用螺栓固定。",
+      "target": "c The centerline of the belt conveyor gallery shall be adjusted based on the axis line of the steel support frame to determine the gallery position, while checking the relative span of the steel support frames. During lifting, the steel support frames shall be fixed and stable. Use a level to check the elevation of the belt conveyor gallery, taking the elevations at both ends as the standard. Check and control the verticality at the middle of the gallery by the plumb-line method. The belt conveyor gallery shall be bolted only after it is confirmed to meet the quality standards."
+    },
+    {
+      "id": "f52b7951-933e-4463-82e4-116136c9e1ef",
+      "source": "5.3\t屋面板安装",
+      "target": "5.3\tRoof Panel Installation"
+    },
+    {
+      "id": "9c98e46d-19c8-4a28-991c-643713054819",
+      "source": "5.3.1\t工艺流程",
+      "target": "5.3.1\tProcess Flow"
+    },
+    {
+      "id": "80ffed17-f476-4623-9c20-d826e977a950",
+      "source": "施工准备→检查檩条规格和放置尺寸→板匹配→放置并固定彩钢板→浇水试验→检查和验收",
+      "target": "Construction preparation \u2192 Check purlin specifications and layout dimensions \u2192 Panel matching \u2192 Place and fix prepainted steel sheets \u2192 Water-spray test \u2192 Inspection and acceptance"
+    },
+    {
+      "id": "e688aeb4-6f21-42de-805c-979c7ff0127a",
+      "source": "5.3.2\t施工准备",
+      "target": "5.3.2\tConstruction Preparation"
+    },
+    {
+      "id": "265c855c-585f-42ca-8079-4fbcd0314cdd",
+      "source": "完成所有准备工作后，再放置和固定夹芯板。",
+      "target": "After all preparatory work is completed, place and fix the sandwich panels."
+    },
+    {
+      "id": "ca37d76d-fa22-403a-814d-4e1d1618c02a",
+      "source": "检查檩条规格、间距和坡度是否符合设计要求，屋面板端部除设置檩条支撑外，中间部分增设檩条。",
+      "target": "Check whether purlin specifications, spacing, and slope comply with design requirements. In addition to purlin supports at the ends of roof panels, add intermediate purlins in the middle sections."
+    },
+    {
+      "id": "d2fb708b-d2e7-4343-a700-6140b0545502",
+      "source": "5.3.3\t板面布置",
+      "target": "5.3.3\tPanel Layout"
+    },
+    {
+      "id": "2eee86d3-5481-47c7-b65a-ab9eb6eea7fe",
+      "source": "根据设计图纸和实际屋面尺寸，绘制板材布置图，作为切割依据，切割板按顺序编号。",
+      "target": "Based on design drawings and actual roof dimensions, prepare a panel layout drawing as the basis for cutting; number the cut panels in sequence."
+    },
+    {
+      "id": "94c74c8f-2952-4f0f-9263-5511bcf5e379",
+      "source": "彩钢板安装",
+      "target": "Installation of Prepainted Steel Sheets"
+    },
+    {
+      "id": "49fc4268-84ac-4e2f-9959-395fdaffe220",
+      "source": "板的放置垂直水平对齐，长（纵向）搭接位于檩条处（双檩条或檩条侧焊接连续角钢），支撑长度≥50mm。",
+      "target": "Align panels plumb and level. The long (longitudinal) lap shall be located at the purlin (double purlins or continuous angle steel welded to the purlin side), with a bearing length \u2265 50 mm."
+    },
+    {
+      "id": "141345e6-ff44-44e6-a75e-88bcea475dc7",
+      "source": "搭接方向沿最大年风向，纵向搭接长度：屋面坡度≥10%时为200mm，＜10%时为250mm；端部（横向）搭接沿水流方向，长度按板材类型确定。",
+      "target": "The lap direction shall follow the prevailing annual wind direction. Longitudinal lap length: 200 mm when roof slope \u2265 10%, and 250 mm when < 10%. End (transverse) laps shall follow the water flow direction, and the length shall be determined by the panel type."
+    },
+    {
+      "id": "0937503e-14a8-4948-a92d-14c106aec59c",
+      "source": "从檐口一端向另一端和屋脊方向同时放置，通过墙板固定夹与墙体固定。",
+      "target": "Place panels simultaneously from one eave end toward the other end and toward the ridge, and fix to the wall using wall-panel fixing clips."
+    },
+    {
+      "id": "184abf15-4230-46d4-80af-d28a46a071cf",
+      "source": "每块屋面板两端支架通过自攻螺钉与檩条固定：纵向连接间距≤350mm，每块板与同一檩条和墙梁连接不少于3点，其他连接不少于2点；屋脊和檐口处多点连接。",
+      "target": "The end supports at both ends of each roof panel shall be fixed to the purlins with self-tapping screws: longitudinal connection spacing \u2264 350 mm; each panel shall have not fewer than 3 connection points to the same purlin and wall girder, and not fewer than 2 points for other connections; provide multi-point connections at the ridge and eave."
+    },
+    {
+      "id": "f1685f60-9fee-468f-bac0-7417e4da6d31",
+      "source": "钻孔时垂直穿过屋面板和檩条，先垫防水密封垫圈，再套橡胶板和不锈钢压盖，拧紧螺栓。",
+      "target": "When drilling, drill vertically through the roof panel and purlin. First place a waterproof sealing washer, then install a rubber sheet and a stainless steel cover plate, and tighten the bolt."
+    },
+    {
+      "id": "bcb3a8e3-ee8f-4315-a3bd-ea5e38bc8a9b",
+      "source": "面板连接采用间距100-500mm的铆钉，长搭接处放置全长密封条，端部放置两个连续密封条。",
+      "target": "Panel connections shall use rivets with spacing of 100\u2013500 mm. Place a full-length sealing strip at longitudinal laps, and place two continuous sealing strips at the ends."
+    },
+    {
+      "id": "1f5aa00a-b482-4a05-bb04-cf3d224a2300",
+      "source": "夹芯板用带防水垫圈的镀锌螺栓固定，固定点在波峰上，外露螺钉涂密封材料；螺栓拧紧后，用硅酮密封胶密封板搭接处。",
+      "target": "Sandwich panels shall be fixed with galvanized bolts with waterproof washers; fixing points shall be on the crests, and exposed screws shall be coated with sealing material. After bolts are tightened, seal panel lap joints with silicone sealant."
+    },
+    {
+      "id": "614df67a-34b8-4030-8aad-6876ed3287ad",
+      "source": "长搭接处用拉铆钉连接，拉铆钉涂硅酮密封剂，用金属或塑料压盖保护。",
+      "target": "Longitudinal laps shall be connected with pull rivets. Coat the pull rivets with silicone sealant and protect them with metal or plastic caps."
+    },
+    {
+      "id": "dbba0e21-14f3-4064-b3ab-6ba9a3af663d",
+      "source": "固定位置要求：屋面自攻钉、拉铆钉在波峰处；墙面在波谷处。",
+      "target": "Fixing location requirements: for the roof, self-tapping screws and pull rivets shall be at the crests; for walls, they shall be at the troughs."
+    },
+    {
+      "id": "1888eaf3-0f88-4c53-b650-f1c7911faeac",
+      "source": "淋水试验",
+      "target": "Water-spray Test"
+    },
+    {
+      "id": "4433fc00-f142-4ad0-ad18-7821057665b7",
+      "source": "屋面板固定后，进行至少2小时淋水试验，检查是否渗漏，发现问题及时修补。",
+      "target": "After the roof panels are fixed, carry out a water-spray test for at least 2 hours to check for leakage, and promptly repair any issues found."
+    },
+    {
+      "id": "68146be8-97ac-4444-b6f8-c08ca16c1def",
+      "source": "检查和验收",
+      "target": "Inspection and Acceptance"
+    },
+    {
+      "id": "a4502b84-6e43-4b04-95a9-9447962be93b",
+      "source": "先进行内部检查，处理质量问题后，组织发包人验收，办理验收手续。",
+      "target": "Conduct internal inspection first. After quality issues are addressed, organize acceptance by the employer and complete the acceptance procedures."
+    },
+    {
+      "id": "8bd81c3a-0a57-499a-8b44-70eb556944e3",
+      "source": "成品保护",
+      "target": "Protection of Finished Work"
+    },
+    {
+      "id": "a4631b48-3e68-4582-96d7-f0d4734a2c56",
+      "source": "施工时保护屋面外层钢板不受划伤，及时清理杂物，严禁堵塞落水管、天沟。",
+      "target": "During construction, protect the outer steel sheet of the roof from scratches, promptly clear debris, and strictly prohibit blocking downpipes and gutters."
+    },
+    {
+      "id": "1ceee67c-bf56-4ae1-a581-16532f2793cc",
+      "source": "彩钢板堆放场地平整坚实，分层堆放，轴承座沿长度方向放置；人工搬运不移动重叠钢板，机械吊装使用专用吊索。",
+      "target": "The storage area for prepainted steel sheets shall be level and firm. Stack in layers, with dunnage blocks placed along the length direction. During manual handling, do not shift overlapped sheets; for mechanical lifting, use dedicated slings."
+    },
+    {
+      "id": "ad1fe9af-151d-487a-90ce-6821090ddba8",
+      "source": "5.4\t预埋件",
+      "target": "5.4\tEmbedded Parts"
+    },
+    {
+      "id": "50947a35-e2b1-40c3-92e1-1d8713bfe0b3",
+      "source": "5.4.1\t预埋螺栓安装",
+      "target": "5.4.1\tInstallation of Embedded Anchor Bolts"
+    },
+    {
+      "id": "46535ef9-11f4-4f7c-b076-84fa8743a3b5",
+      "source": "螺栓组组合：按图纸设计下料，单个螺栓按要求焊接组合，误差≤1mm。",
+      "target": "Bolt group assembly: cut materials as per the design drawings; weld individual bolts into assemblies as required; tolerance \u2264 1 mm."
+    },
+    {
+      "id": "b1c9069b-a8fb-412f-bd7f-6978f8778413",
+      "source": "螺栓组安装：根据设计要求，测量垂直和水平轴线到设备基础四边，测量水平标高到基础一侧，定位并焊接螺栓组，定位后重复测量，再测量与相邻螺栓组的间隙。",
+      "target": "Bolt group installation: according to design requirements, measure the distances from the vertical and horizontal axis lines to the four sides of the equipment foundation, and measure the elevation reference to one side of the foundation. Position and weld the bolt groups; after positioning, repeat measurements, and then measure the gaps to adjacent bolt groups."
+    },
+    {
+      "id": "cf16f2b1-5503-4bd9-b4fa-5456f54b369e",
+      "source": "所有螺栓按示意图组装和安装。",
+      "target": "All bolts shall be assembled and installed according to the schematic diagram."
+    },
+    {
+      "id": "d99e8040-f700-44e5-bbe4-b16f6aded1a3",
+      "source": "质量要求",
+      "target": "Quality Requirements"
+    },
+    {
+      "id": "8993c8cb-fc83-4391-a6e6-c98709733117",
+      "source": "螺栓焊接牢固，无松动，误差≤1mm。",
+      "target": "Bolt welding shall be firm with no looseness; tolerance \u2264 1 mm."
+    },
+    {
+      "id": "1a9fb293-bd91-4d7f-a640-6fd61c904e0c",
+      "source": "定位点和标高符合设计要求，误差≤2mm，高程控制在0~10mm范围内。",
+      "target": "Positioning points and elevations shall meet design requirements; tolerance \u2264 2 mm, and elevation shall be controlled within 0\u201310 mm."
+    },
+    {
+      "id": "e3617c34-a406-4e92-8a81-377ff95b6443",
+      "source": "混凝土浇筑过程中螺栓组不移动，浇筑完成后再次测量螺栓位置准确性。",
+      "target": "During concrete placement, the bolt groups shall not move. After placement, re-measure to verify bolt position accuracy."
+    },
+    {
+      "id": "7cb807d5-8a70-4105-bf74-487f15b66f32",
+      "source": "混凝土浇筑时，用胶带包裹所有暴露螺纹部分进行保护。",
+      "target": "During concrete placement, wrap all exposed threaded portions with tape for protection."
+    },
+    {
+      "id": "d4e58d16-1bd9-4392-b1cd-f7387bece50c",
+      "source": "5.4.2\t预埋铁件",
+      "target": "5.4.2\tEmbedded Steel Items"
+    },
+    {
+      "id": "c3c42648-3227-448b-bb62-ea84facd2b75",
+      "source": "受力预埋件的锚筋采用热轧钢筋，严禁使用冷加工钢筋。",
+      "target": "Anchor bars for load-bearing embedded parts shall be hot-rolled reinforcing bars; cold-worked bars are strictly prohibited."
+    },
+    {
+      "id": "91ca75d8-70df-4a56-b1d8-cfdc0b2bc96b",
+      "source": "预埋钢筋中，应力锚筋不少于4根，直径≥8mm且≤25mm。",
+      "target": "For embedded reinforcement, there shall be no fewer than four stressed anchor bars, with diameter \u2265 8 mm and \u2264 25 mm."
+    },
+    {
+      "id": "e049df87-2806-4608-b9ad-e6549f19aece",
+      "source": "抗震预埋件的锚筋横截面积比设计值增加25%，相应调整锚固板厚度，锚板附近设置直径≥10mm的闭合箍筋。",
+      "target": "For seismic embedded parts, increase the anchor bar cross-sectional area by 25% over the design value and adjust the anchor plate thickness accordingly; provide closed stirrups with diameter \u2265 10 mm near the anchor plate."
+    },
+    {
+      "id": "4668095b-2c27-4c85-bb71-7928f89f0ec5",
+      "source": "预埋件安装：采用钢筋焊接定位固定，测量垂直和水平轴线到基础四边，测量水平标高到基础一侧，定位并焊接预埋件，定位后重复测量，再测量与相邻预埋件的距离，确保定位和标高准确。",
+      "target": "Embedded part installation: fix by welded reinforcement for positioning. Measure the distances from the vertical and horizontal axis lines to the four sides of the foundation, and measure the elevation reference to one side of the foundation. Position and weld the embedded parts; after positioning, repeat measurements, then measure the distances to adjacent embedded parts to ensure accurate positioning and elevations."
+    },
+    {
+      "id": "26c32f1e-b890-4779-9705-9d51ae51929b",
+      "source": "5.5\t设备安装",
+      "target": "5.5\tEquipment Installation"
+    },
+    {
+      "id": "4fd3501a-6054-457b-8b30-2b4836006472",
+      "source": "5.5.1\t皮带输送机安装",
+      "target": "5.5.1\tBelt Conveyor Installation"
+    },
+    {
+      "id": "c0747704-e6b6-4e69-8950-0e5cb910abb5",
+      "source": "安装前准备",
+      "target": "Pre-installation Preparation"
+    },
+    {
+      "id": "b05d34cd-a118-4c3e-95cf-bdda4d042e11",
+      "source": "检查输送机部件是否齐全，型号规格是否符合设计要求，有无运输损坏。",
+      "target": "Check whether all conveyor components are complete, whether the model and specifications meet design requirements, and whether there is any transport damage."
+    },
+    {
+      "id": "a286c8a8-50f8-48a8-92f8-02097e952de7",
+      "source": "清理安装场地，确保场地平整、无障碍物，铺设临时运输道路。",
+      "target": "Clear the installation area to ensure it is level and free of obstructions, and lay temporary haul roads."
+    },
+    {
+      "id": "36e22e1e-2125-4049-8511-5baab79d0894",
+      "source": "检查基础标高、位置尺寸是否符合设计要求，预留孔位置和尺寸准确。",
+      "target": "Check whether the foundation elevation and position dimensions meet design requirements, and whether the locations and sizes of reserved holes are accurate."
+    },
+    {
+      "id": "4c49b51e-cc9c-478c-ad74-e2f3b57e0a14",
+      "source": "安装顺序",
+      "target": "Installation Sequence"
+    },
+    {
+      "id": "73afe663-bc67-4245-973b-39671e5c6a58",
+      "source": "基础验收与测量→机座（含板）和轴承座安装→滚筒安装→托辊安装→输送带铺设→驱动装置安装→拉紧装置安装→安全保护装置安装→电气系统安装→调试。",
+      "target": "Foundation acceptance and measurement \u2192 Installation of base frame (including plates) and bearing housings \u2192 Pulley installation \u2192 Idler installation \u2192 Conveyor belt laying \u2192 Drive unit installation \u2192 Take-up device installation \u2192 Safety protection device installation \u2192 Electrical system installation \u2192 Commissioning."
+    },
+    {
+      "id": "b0e76e33-d658-4cea-81d7-e49385a0d637",
+      "source": "关键安装要求",
+      "target": "Key Installation Requirements"
+    },
+    {
+      "id": "d93dd9ca-2349-4624-87e0-7f47bbd4a6e0",
+      "source": "输送带的安装：输送带是皮带输送机的主要组成部分，贯穿于皮带输送机的全长。减少输送带的故障率，是提高皮带输送机寿命和降低运行费用的重要方法。",
+      "target": "Conveyor belt installation: The conveyor belt is the main component of the belt conveyor and runs through its entire length. Reducing the belt failure rate is an important way to extend the belt conveyor service life and reduce operating costs."
+    },
+    {
+      "id": "fc126886-01b2-41aa-a7a8-1e3270fa03d2",
+      "source": "在输送带安装过程中，要保证输送带接头质量必须平直、不起胶、不鼓气泡、黏合紧密、光滑；两卷输送带的中心线不重合度小于3mm。胶带机运转过程中，输送带不打滑、不跑偏，跑偏量不得超过带宽的5%。",
+      "target": "During conveyor belt installation, ensure the belt splice quality: it shall be straight, free of debonding, free of blistering, tightly bonded, and smooth. The centerline misalignment of two belt rolls shall be less than 3 mm. During operation of the belt conveyor, the belt shall not slip or deviate; the belt deviation shall not exceed 5% of the belt width."
+    },
+    {
+      "id": "1907f2e8-d2e3-4c82-b955-034db7f7840c",
+      "source": "驱动装置的安装：驱动装置在皮带输送机正常运行时提供牵引力，是皮带输送机的核心装置。",
+      "target": "Drive unit installation: The drive unit provides traction during normal operation of the belt conveyor and is the core assembly of the belt conveyor."
+    },
+    {
+      "id": "69c78c46-8547-4be0-9eb6-3a70d88400ff",
+      "source": "驱动装置安装时，要确保皮带输送机中心线和传动滚筒轴线垂直，且在传动滚筒宽度中心线上；确保传动滚筒和转向滚筒轴的水平度不应超过0.3‰，传动滚筒和改向滚筒宽度中心线与皮带输送机纵向中心线不重合度不超2mm，传动滚筒和改向滚筒轴心线与皮带输送机纵向中心线的不垂直度不超滚筒宽度的2‰。",
+      "target": "During drive unit installation, ensure that the belt conveyor centerline is perpendicular to the axis line of the drive pulley and that it lies on the centerline of the drive pulley width. Ensure that the levelness of the drive pulley and snub pulley shafts does not exceed 0.3\u2030; the misalignment between the width centerlines of the drive pulley and snub pulley and the longitudinal centerline of the belt conveyor does not exceed 2 mm; and the non-perpendicularity between the axes of the drive pulley and snub pulley and the longitudinal centerline of the belt conveyor does not exceed 2\u2030 of the pulley width."
+    },
+    {
+      "id": "48c8e419-fcdc-4ceb-b57b-6c02f3f48afb",
+      "source": "驱动装置安装调试时，保证电动机无异常声音、无异常发热和振动现象；减速器试运转时没有异常声音和异常振动现象，箱体表面温度不超标准，齿面无过量磨损，紧固螺栓不松动；制动器和逆止器无异常声音和发热现象，各转动销轴无卡住或异常磨损。",
+      "target": "During installation and commissioning of the drive unit, ensure that the motor has no abnormal noise, overheating, or vibration. During trial operation of the reducer, there shall be no abnormal noise or vibration; the casing surface temperature shall not exceed the standard; gear tooth surfaces shall have no excessive wear; and fastening bolts shall not be loose. The brake and backstop shall have no abnormal noise or heating, and all rotating pins shall have no seizure or abnormal wear."
+    },
+    {
+      "id": "905fe1e9-c776-44c1-a8a4-4f9b195b01bd",
+      "source": "托辊与机架的安装：托辊安装在机架上，对输送带起支撑作用，使输送带悬垂度不超规定要求。要求托辊转动灵活，且与皮带输送机中心线垂直，托辊无异常声音和卡死现象。机架中心线与皮带输送机纵向中心线不重合度不超3mm；机架两槽钢对应点相对高低差不超3mm。",
+      "target": "Idler and frame installation: idlers are installed on the frame to support the conveyor belt so that belt sag does not exceed the specified requirements. Idlers shall rotate flexibly and be perpendicular to the belt conveyor centerline, with no abnormal noise or seizure. The misalignment between the frame centerline and the belt conveyor longitudinal centerline shall not exceed 3 mm; the relative height difference between corresponding points of the two channel steels of the frame shall not exceed 3 mm."
+    },
+    {
+      "id": "ffed108a-d8fc-4085-8408-236a0ba7769e",
+      "source": "拉紧装置的安装：拉紧装置可以补偿输送带弹性和塑性形变，使输送带有足够的张力，防止皮带输送机打滑。",
+      "target": "Take-up device installation: the take-up device can compensate for elastic and plastic deformation of the conveyor belt, providing sufficient belt tension to prevent belt conveyor slippage."
+    },
+    {
+      "id": "df6fd1d8-31dd-4ce9-b807-5b1fc736a013",
+      "source": "拉紧装置钢丝绳不能有生锈和断丝现象，输送带不能出现松弛现象；尽量安装在靠近传动滚筒的空载分支上，有利于启动和制动时不产生打滑现象；尽量安装在输送带张力最小的地方，从而减小拉紧力。",
+      "target": "The wire rope of the take-up device shall have no rusting or broken wires, and the conveyor belt shall not be slack. It should be installed on the no-load return strand near the drive pulley as much as possible, which is beneficial to avoid slippage during starting and braking. It should also be installed where belt tension is minimal to reduce the take-up force."
+    },
+    {
+      "id": "ef679a03-c0d3-45dc-ab47-560d0ee39fd2",
+      "source": "保护装置的安装：防滑保护装置安装在皮带输送机回程带上面，对于固定皮带输送机，防滑保护装置装在机头卸载滚筒与驱动滚筒之间。",
+      "target": "Installation of protective devices: the anti-slip protection device shall be installed above the return belt of the belt conveyor. For fixed belt conveyors, the anti-slip protection device shall be installed between the head discharge pulley and the drive pulley."
+    },
+    {
+      "id": "a4097f3f-0a4e-4a79-9b6a-4b3ced9fb6da",
+      "source": "堆料保护安装在两部皮带输送机搭接处，保护触头应在卸载滚筒前方吊挂，保护触头吊挂高度不得高于卸载滚筒下沿。",
+      "target": "Pile-up protection shall be installed at the transfer point between two belt conveyors. The protection contact shall be suspended in front of the discharge pulley, and its suspension height shall not be higher than the lower edge of the discharge pulley."
+    },
+    {
+      "id": "a8b59532-cff3-4ec3-ae82-ab7451299a61",
+      "source": "跑偏保护成对安装，且机头、机尾处各安装一组，使用专用托架固定在皮带输送机机架上。",
+      "target": "Belt misalignment protection shall be installed in pairs, with one set installed at the head and one set at the tail, fixed to the belt conveyor frame using dedicated brackets."
+    },
+    {
+      "id": "6db1e871-6a5a-4359-91f1-1f2d8d1b89a4",
+      "source": "温度传感器安装在皮带输送机的主动滚筒附近，温度探头应紧贴主滚筒外壁。",
+      "target": "Temperature sensors shall be installed near the drive pulley of the belt conveyor, and the temperature probe shall be in close contact with the outer surface of the drive pulley."
+    }
+  ]
+}
