@@ -134,3 +134,35 @@ Error: Pass --to <E.164>, --session-id, or --agent to choose a session
 
 --- 第11步：压平 Git 历史 ---
 M	logs/proj_d6436000_20260212_130952.log
+[_squash_temp （根提交） 0a10aaa] 翻译工作区 (2026-02-12)
+ 18 files changed, 1891 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 glossary/technical_terms.json
+ create mode 100644 logs/Construction_Organization_Design_Proposal_20260212_112836.log
+ create mode 100644 logs/Construction_Organization_Design_Proposal_20260212_115502.log
+ create mode 100644 logs/Construction_Organization_Design_Proposal_20260212_121020.log
+ create mode 100644 logs/Taihe_Wastewater_Plant_Report_20260212_124243.log
+ create mode 100644 logs/proj_545d46a7_20260212_123107.log
+ create mode 100644 logs/proj_707777ce_20260212_125136.log
+ create mode 100644 logs/proj_93f4ea54_20260211_162619.log
+ create mode 100644 logs/proj_93f4ea54_20260211_163459.log
+ create mode 100644 logs/proj_d6436000_20260212_130952.log
+ create mode 100644 logs/test_launcher_20260211_160631.log
+ create mode 100644 "logs/\346\265\267\345\244\226\345\211\247\345\215\225\345\210\227\350\241\250-2_20260211_161920.log"
+ create mode 100644 tools/merge_translations.py
+ create mode 100644 tools/split_sdlxliff.py
+ create mode 100644 tools/translate_batch.py
+ create mode 100644 tools/translate_direct.py
+ create mode 100644 translations.log
+已删除分支 master（曾为 8977a4d）。
+  已压平 3 个历史提交 → 1 个
+
+========================================
+  翻译完成!
+========================================
+  文件:   泰和污水处理厂THK2.2标报告
+  总计:   139 段, 7 批次
+  并发:   7 个 Agent
+  方向:   zh-CN -> en-US
+  耗时:   230秒
+  飞书:   已发送两份文件
