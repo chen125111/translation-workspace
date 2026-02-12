@@ -1,0 +1,100 @@
+{
+  "batch_number": 4,
+  "translations": [
+    {
+      "id": "31ccc21b-3c0f-42bb-b93d-afabcfdd6285",
+      "source": "卞怀畅",
+      "target": "Bian Huaichang"
+    },
+    {
+      "id": "471d0be6-5ea7-4313-84ee-8884934d3197",
+      "source": "城投水务项目公司",
+      "target": "Chengtou Water Affairs Project Company"
+    },
+    {
+      "id": "fb67833d-8e69-4889-9103-2a0ee3ce2ddc",
+      "source": "教高",
+      "target": "Professor-level Senior Engineer"
+    },
+    {
+      "id": "24c3e088-1590-41a9-8ad0-6bd02f6de8d1",
+      "source": "崔平",
+      "target": "Cui Ping"
+    },
+    {
+      "id": "7f74b421-cb14-48e9-a427-07a6951dacdd",
+      "source": "城投水务项目公司",
+      "target": "Chengtou Water Affairs Project Company"
+    },
+    {
+      "id": "d56078a6-03ae-4483-bf45-8e246a977510",
+      "source": "工程师",
+      "target": "Engineer"
+    },
+    {
+      "id": "ea591f85-72fb-458d-92f9-5cb3b0cc2440",
+      "source": "经理",
+      "target": "Manager"
+    },
+    {
+      "id": "54a2b568-c143-4247-b2a8-c2b0780c29cc",
+      "source": "杨奕建",
+      "target": "Yang Yijian"
+    },
+    {
+      "id": "5ba8b5a1-565e-43a6-9a45-6a4c1c55cb6a",
+      "source": "上海市机施集团",
+      "target": "Shanghai Municipal Mechanical Construction Group"
+    },
+    {
+      "id": "5ac35372-60a8-4e0d-a3e4-43e486f78ddd",
+      "source": "工程师",
+      "target": "Engineer"
+    },
+    {
+      "id": "26b2fbe8-6977-407a-a432-f4f2db8c1c47",
+      "source": "陈方成",
+      "target": "Chen Fangcheng"
+    },
+    {
+      "id": "cb2106b6-f948-4a4d-9398-7dd6206f9977",
+      "source": "上海市政总院",
+      "target": "Shanghai Municipal Engineering Design Institute (Group)"
+    },
+    {
+      "id": "741bb4c9-b6c5-41a7-ac08-cacb7f7615c7",
+      "source": "正高",
+      "target": "Principal Senior Engineer"
+    },
+    {
+      "id": "a2026f56-6cdb-4879-ad57-96b865a92cf9",
+      "source": "副总工",
+      "target": "Deputy Chief Engineer"
+    },
+    {
+      "id": "1aef94a7-69f1-4e28-aedb-bef9e99c52f5",
+      "source": "董林兵",
+      "target": "Dong Linbing"
+    },
+    {
+      "id": "0e92af8c-99fa-4b82-b9bb-199bd464c362",
+      "source": "上海市政总院",
+      "target": "Shanghai Municipal Engineering Design Institute (Group)"
+    },
+    {
+      "id": "67d7cde7-cb68-4b8c-b6ca-ac1689e7754f",
+      "source": "高工",
+      "target": "Senior Engineer"
+    },
+    {
+      "id": "066227f5-415d-4fb0-ac30-c3aabd5153b0",
+      "source": "史寿成",
+      "target": "Shi Shoucheng"
+    },
+    {
+      "id": "32b70791-40ef-463b-b368-db9228af3937",
+      "source": "上海山南勘测",
+      "target": "Shanghai Shannan Surveying"
+    }
+  ]
+}
