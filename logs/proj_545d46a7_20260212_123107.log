@@ -1,0 +1,27 @@
+  [检测] 文件无扩展名(c16913eb-1de4-47...)，内容为SDLXLIFF，重命名为 proj_545d46a7.sdlxliff
+========================================
+  翻译项目启动 (v4)
+========================================
+  源文件: proj_545d46a7.sdlxliff
+  项目:   proj_545d46a7
+  方向:   zh-CN -> en-US
+  批次:   每批 20 段
+
+--- 第1步：准备并拆分 ---
+正在提取: /home/cc/translation-workspace/projects/proj_545d46a7/source/proj_545d46a7.sdlxliff (全部段落)
+共提取 94 个待翻译段落
+拆分为 5 个批次（每批最多 20 段）
+
+  批次 1/5: 19 个段落 -> batch_001.json
+  批次 2/5: 19 个段落 -> batch_002.json
+  批次 3/5: 19 个段落 -> batch_003.json
+  批次 4/5: 19 个段落 -> batch_004.json
+  批次 5/5: 18 个段落 -> batch_005.json
+
+清单文件: /home/cc/translation-workspace/projects/proj_545d46a7/batches/manifest.json
+
+✅ 完成！共 94 段，5 批
+   输出目录: /home/cc/translation-workspace/projects/proj_545d46a7/batches/
+  => 94 段, 5 批次, 5 并发 (auto)
+
+--- 第2步：推送到 GitHub ---
