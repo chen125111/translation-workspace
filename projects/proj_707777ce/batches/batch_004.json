@@ -1,0 +1,75 @@
+{
+  "batch_number": 4,
+  "total_batches": 5,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": "ca3e2f34-784c-4aec-ae0c-6b8421343737",
+      "source": "城投水务项目公司"
+    },
+    {
+      "id": "52b32e86-08d7-4c26-ad1b-6b8ecdbc049d",
+      "source": "教高"
+    },
+    {
+      "id": "d791dab6-be33-43d5-87e7-959d137be46b",
+      "source": "韩一平"
+    },
+    {
+      "id": "c8f207e2-9b09-4493-b803-f79cae36af5c",
+      "source": "城投水务项目公司"
+    },
+    {
+      "id": "3e05e65a-ac2b-4c4a-ace8-65f6064de49a",
+      "source": "工程师"
+    },
+    {
+      "id": "a546eca1-5df3-4630-88d7-4e1dbf62c2f0",
+      "source": "经理"
+    },
+    {
+      "id": "82074840-87b9-4fcd-a34d-fb17a454ec00",
+      "source": "郝辉"
+    },
+    {
+      "id": "afc334f2-0dbe-4e90-8593-e44b1c87fda9",
+      "source": "上海华城有限公司"
+    },
+    {
+      "id": "5245f97c-3b47-492e-b197-9f41be788b63",
+      "source": "高工"
+    },
+    {
+      "id": "c5ee5549-bbc3-4745-9a11-91390fbb994c",
+      "source": "洪示"
+    },
+    {
+      "id": "fafe082a-2b66-494b-92cb-f55d3143a383",
+      "source": "上海同标检测"
+    },
+    {
+      "id": "aaa57b9c-4a40-41fc-9f44-1620a1f590d3",
+      "source": "工程师"
+    },
+    {
+      "id": "c0d0836f-71a8-4e5c-b3af-e611a9588c71",
+      "source": "费希伟"
+    },
+    {
+      "id": "ac3dc381-7f75-4d24-b0ca-4960afc6985c",
+      "source": "上海玄波公司"
+    },
+    {
+      "id": "46c5a952-c8ec-4f47-a1c0-8ec5ba3862e7",
+      "source": "高工"
+    },
+    {
+      "id": "151ac30b-57c2-4afc-8eb6-4f89d2d20679",
+      "source": "总经"
+    },
+    {
+      "id": "62ead196-a70c-4389-bda2-81cbd08ce529",
+      "source": "陈方成"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "batch_number": 3,
+  "total_batches": 5,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": "0e602c2f-5b1f-4204-8dda-ab9fdae69060",
+      "source": "该工程已完成合同约定的各项内容，工程质量符合国家和地方有关标准及设计要求。同意本次竣工验收。"
+    },
+    {
+      "id": "0b76f351-f2dc-47f5-9626-202afbe4d40d",
+      "source": "竣工验收人员签字"
+    },
+    {
+      "id": "14a2659f-bc14-483e-93a1-f4cb66fdb55f",
+      "source": "验收组职务"
+    },
+    {
+      "id": "3043223f-f7d9-46d6-adbb-de178bfdc316",
+      "source": "姓名"
+    },
+    {
+      "id": "d428b6e9-11bd-4926-a0e0-5ef79cc97b31",
+      "source": "工作单位"
+    },
+    {
+      "id": "66923a41-2919-49f7-ba7c-6db882169bde",
+      "source": "技术职称"
+    },
+    {
+      "id": "36557b47-09a0-4ec9-8637-0e4bf1e82dd1",
+      "source": "单位职务"
+    },
+    {
+      "id": "ba76d700-c1bf-4184-b72d-83d5f372bf3e",
+      "source": "验收组组长"
+    },
+    {
+      "id": "9ecd3de1-3f85-4ac3-af99-43bea3fdca64",
+      "source": "刘发辉"
+    },
+    {
+      "id": "4d09edc8-652b-4a00-9892-73cc950cc1b3",
+      "source": "城投水务"
+    },
+    {
+      "id": "3a0ff7db-9804-40ff-a38d-5740c8e9cf20",
+      "source": "高工"
+    },
+    {
+      "id": "5822c8cd-17af-406e-8ce8-63b5d74314fa",
+      "source": "副经理"
+    },
+    {
+      "id": "360d7b71-359f-4b65-ba56-2cb9cc003de2",
+      "source": "验收组成员"
+    },
+    {
+      "id": "7e7c192c-7eae-4b04-9562-c2ea8e634791",
+      "source": "祝建伟"
+    },
+    {
+      "id": "866527eb-4dc8-4630-9deb-02e19ac48ad4",
+      "source": "上海隧道公司"
+    },
+    {
+      "id": "b8728625-a598-4269-b098-12555a3dfa62",
+      "source": "高工"
+    },
+    {
+      "id": "31c23053-05d3-4b7c-9fb2-2bd12859e17c",
+      "source": "卞怀畅"
+    }
+  ]
+}
