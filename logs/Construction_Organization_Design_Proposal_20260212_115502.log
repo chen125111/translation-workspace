@@ -1,0 +1,24 @@
+  [检测] 文件无扩展名(48500269-9555-4c...)，内容为SDLXLIFF，重命名为 Construction_Organization_Design_Proposal.sdlxliff
+========================================
+  翻译项目启动 (v4)
+========================================
+  源文件: Construction_Organization_Design_Proposal.sdlxliff
+  项目:   Construction_Organization_Design_Proposal
+  方向:   zh-CN -> en-US
+  批次:   每批 150 段
+
+--- 第1步：准备并拆分 ---
+正在提取: /home/cc/translation-workspace/projects/Construction_Organization_Design_Proposal/source/Construction_Organization_Design_Proposal.sdlxliff (全部段落)
+共提取 162 个待翻译段落
+拆分为 2 个批次（每批最多 150 段）
+
+  批次 1/2: 150 个段落 -> batch_001.json
+  批次 2/2: 12 个段落 -> batch_002.json
+
+清单文件: /home/cc/translation-workspace/projects/Construction_Organization_Design_Proposal/batches/manifest.json
+
+✅ 完成！共 162 段，2 批
+   输出目录: /home/cc/translation-workspace/projects/Construction_Organization_Design_Proposal/batches/
+  => 162 段, 2 批次, 2 并发 (auto)
+
+--- 第2步：推送到 GitHub ---
